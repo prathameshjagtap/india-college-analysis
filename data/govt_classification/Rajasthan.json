@@ -1,0 +1,343 @@
+[
+  {
+    "SlNo": "458",
+    "CollegeName": "Government Medical College Jhunjhunu",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "State-run government medical college; source lists University as 'Rajasthan University of Medical Sciences' (likely inconsistent naming for RUHS/state medical university) but college follows same state pattern as other RUHS-affiliated Government Medical Colleges.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/affiliated-colleges/"
+    ]
+  },
+  {
+    "SlNo": "461",
+    "CollegeName": "Government Medical College Baran",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university established under Rajasthan University of Health Sciences Act, 2005.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "462",
+    "CollegeName": "Government Medical College Nagaur",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "463",
+    "CollegeName": "Government Medical College Banswara",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "465",
+    "CollegeName": "Government Medical College Bundi",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "466",
+    "CollegeName": "Government Medical College Hanumangarh",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "467",
+    "CollegeName": "Government Medical College Dausa",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "468",
+    "CollegeName": "Government Medical College Alwar",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university. Distinct from the separate central ESIC Medical College also located in Alwar (SlNo 480).",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "469",
+    "CollegeName": "Government Medical College Karauli",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "470",
+    "CollegeName": "Government Medical College Kota",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Long-established (1992) state government medical college affiliated to RUHS.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "471",
+    "CollegeName": "Sardar Patel Medical College Bikaner",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Established 1959; state government medical college affiliated to RUHS.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "472",
+    "CollegeName": "Jawaharlal Nehru Medical College Ajmer",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Established 1965; state government medical college affiliated to RUHS.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "475",
+    "CollegeName": "SMS Medical College Jaipur",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Sawai Man Singh (SMS) Medical College is a Rajasthan state government institution, oldest state medical college in Jaipur (1947), affiliated to RUHS; official site under medicaleducation.rajasthan.gov.in.",
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Sawai_Man_Singh_Medical_College",
+      "https://medicaleducation.rajasthan.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "476",
+    "CollegeName": "All India Institute of Medical Sciences Jodhpur",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare, Government of India",
+    "Notes": "AIIMS Jodhpur is a central government Institute of National Importance established in 2012 under the AIIMS Act 1956 (amended 2012) via PMSSY, operating autonomously under MoHFW, Government of India. Not affiliated to a state university (statutory autonomous body).",
+    "Sources": [
+      "https://en.wikipedia.org/wiki/All_India_Institute_of_Medical_Sciences,_Jodhpur",
+      "https://www.aiimsjodhpur.edu.in/"
+    ]
+  },
+  {
+    "SlNo": "477",
+    "CollegeName": "Dr SN Medical College Jodhpur",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Established 1965; state government medical college affiliated to RUHS. Distinct from central AIIMS Jodhpur (SlNo 476) also located in Jodhpur.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "478",
+    "CollegeName": "R N T Medical College Udaipur",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Rabindranath Tagore Medical College, established 1961; state government medical college affiliated to RUHS.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "480",
+    "CollegeName": "Employees State Insurance Corporation Medical College Alwar",
+    "Classification": "Central",
+    "FundingSource": "Employees' State Insurance Corporation (ESIC), Ministry of Labour & Employment, Government of India",
+    "Notes": "ESIC Medical College, Alwar is run by ESIC, a central autonomous body under the Ministry of Labour & Employment, Government of India (established 2017); it is only affiliated to RUHS for university purposes but funded/administered centrally, not by the Rajasthan state medical education department.",
+    "Sources": [
+      "https://mcalwar.esic.gov.in/",
+      "https://en.wikipedia.org/wiki/ESIC_Medical_College,_Alwar"
+    ]
+  },
+  {
+    "SlNo": "481",
+    "CollegeName": "Shri Kalyan Govt. Medical College Sikar",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "State government medical college affiliated to RUHS (established 2020).",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "482",
+    "CollegeName": "Government Medical College Barmer",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "483",
+    "CollegeName": "Government Medical College Bhilwara",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "484",
+    "CollegeName": "Government Medical College Churu",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "485",
+    "CollegeName": "Government Medical College Pali",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university; established 2018.",
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Government_Medical_College,_Pali",
+      "https://medicaleducation.rajasthan.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "486",
+    "CollegeName": "Government Medical College Bharatpur",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "487",
+    "CollegeName": "Government Medical College Dungarpur",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university; established 2018.",
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Dungarpur_Medical_College",
+      "https://medicaleducation.rajasthan.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "493",
+    "CollegeName": "RUHS College of Medical Sciences Jaipur",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "State government medical college named after and affiliated to Rajasthan University of Health Sciences; established 2014.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "494",
+    "CollegeName": "Government Medical College Dholpur",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "495",
+    "CollegeName": "Government Medical College Sirohi",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "496",
+    "CollegeName": "Government Medical College Sri Ganganagar",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  },
+  {
+    "SlNo": "497",
+    "CollegeName": "Government Medical College Chittorgarh",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Government_Medical_College,_Chittorgarh",
+      "https://medicaleducation.rajasthan.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "499",
+    "CollegeName": "Jhalawar Medical College Jhalawar",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Established 2007-08 as a public medical college; affiliated to RUHS. Input record lists University as 'Rajasthan University' but official college page is hosted under medicaleducation.rajasthan.gov.in and it is affiliated academically to RUHS.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/mcjhalawar/",
+      "https://en.wikipedia.org/wiki/Jhalawar_Medical_College"
+    ]
+  },
+  {
+    "SlNo": "500",
+    "CollegeName": "Government Medical College Sawai Madhopur",
+    "Classification": "State",
+    "FundingSource": "Medical Education Department, Government of Rajasthan",
+    "Notes": "Affiliated to Rajasthan University of Health Sciences (RUHS), a state university.",
+    "Sources": [
+      "https://medicaleducation.rajasthan.gov.in/",
+      "https://ruhsraj.org/"
+    ]
+  }
+]

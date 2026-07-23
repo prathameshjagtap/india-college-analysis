@@ -1,0 +1,390 @@
+[
+  {
+    "SlNo": "502",
+    "CollegeName": "Annaii Medical College and Rajalakshmi Health City Kancheepuram",
+    "Classification": "Private",
+    "FundingSource": "Private self-financing trust (Rajalakshmi Institutions / Annaii Educational Trust)",
+    "Notes": "NOT a government college despite being present in this list. Annaii Medical College and Hospital (Rajalakshmi Health City, Pennalur, Sriperumbudur) is a private self-financing medical college affiliated to The Tamilnadu Dr. MGR Medical University; it offers management/self-financing and NRI-quota seats and is not administered by the Directorate of Medical Education, Government of Tamil Nadu. Flagging for exclusion/correction from the government-college dataset.",
+    "Sources": [
+      "https://timesofcollege.com/college/annaii-medical-college-and-hospital-206679",
+      "https://zeenews.india.com/india/rajalakshmi-institutions-acquires-annaii-medical-college-and-hospital-2807209.html"
+    ]
+  },
+  {
+    "SlNo": "507",
+    "CollegeName": "All India Institute of Medical Science Madurai",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare, Government of India (PMSSY)",
+    "Notes": "AIIMS Madurai is one of the AIIMS institutes established under the Pradhan Mantri Swasthya Suraksha Yojana (PMSSY), run by the Ministry of Health & Family Welfare, GoI; declared an Institute of National Importance under the AIIMS Act.",
+    "Sources": [
+      "https://www.indiascienceandtechnology.gov.in/organisations/centres-of-higher-learning/aiims/all-india-institute-medical-sciences-aiims-madurai-tamil-nadu",
+      "https://en.wikipedia.org/wiki/All_India_Institute_of_Medical_Sciences,_Madurai"
+    ]
+  },
+  {
+    "SlNo": "511",
+    "CollegeName": "Govt. Mohan Kumaramangalam Medical College Salem",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "515",
+    "CollegeName": "Government Erode Medical College & Hospital Perundurai",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "517",
+    "CollegeName": "Madras Medical College Chennai",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "One of India's oldest state government medical colleges (est. 1835), affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME, Government of Tamil Nadu.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "518",
+    "CollegeName": "Coimbatore Medical College Coimbatore",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "519",
+    "CollegeName": "Kilpauk Medical College Chennai",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University; DME headquarters itself is located at Kilpauk, Chennai.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "520",
+    "CollegeName": "Thanjavur Medical College Thanjavur",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "521",
+    "CollegeName": "Stanley Medical College Chennai",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "522",
+    "CollegeName": "Madurai Medical College Madurai",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "525",
+    "CollegeName": "K A P Viswanatham Government Medical College Trichy",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php",
+      "https://en.wikipedia.org/wiki/K.A.P._Viswanatham_Government_Medical_College"
+    ]
+  },
+  {
+    "SlNo": "527",
+    "CollegeName": "KanyaKumari Government Medical College Asaripallam",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "529",
+    "CollegeName": "Thoothukudi Medical College Thoothukudi",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "532",
+    "CollegeName": "Theni Government Medical College Theni",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "533",
+    "CollegeName": "Chengalpattu Medical College Chengalpattu",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "534",
+    "CollegeName": "Government Vellore Medical College Vellore",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department. Distinct from the private Christian Medical College (CMC) Vellore.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "535",
+    "CollegeName": "Tirunelveli Medical College Tirunelveli",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "536",
+    "CollegeName": "Government Dharmapuri Medical College Dharmapuri",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "538",
+    "CollegeName": "Government Medical College Namakkal",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "One of 11 new state government medical colleges inaugurated in Tamil Nadu in 2022 (PM Modi inauguration event); administered by DME, Government of Tamil Nadu.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "539",
+    "CollegeName": "Government Medical College Ramanathapuram",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "One of 11 new state government medical colleges inaugurated in Tamil Nadu in 2022; administered by DME, Government of Tamil Nadu.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "541",
+    "CollegeName": "Government Medical College Thiruvallur",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "One of 11 new state government medical colleges inaugurated in Tamil Nadu in 2022; administered by DME, Government of Tamil Nadu.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "543",
+    "CollegeName": "Government Medical College Tiruppur",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "One of 11 new state government medical colleges inaugurated in Tamil Nadu in 2022; administered by DME, Government of Tamil Nadu.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "544",
+    "CollegeName": "Government Medical College Kallakurichi",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "One of 11 new state government medical colleges inaugurated in Tamil Nadu in 2022; administered by DME, Government of Tamil Nadu.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "545",
+    "CollegeName": "Government Medical College Virudhunagar",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "One of 11 new state government medical colleges inaugurated in Tamil Nadu in 2022; administered by DME, Government of Tamil Nadu.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "546",
+    "CollegeName": "Government Medical College The Nilgiris",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "One of 11 new state government medical colleges inaugurated in Tamil Nadu in 2022; administered by DME, Government of Tamil Nadu.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "550",
+    "CollegeName": "Government Medical College Dindigul",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "One of 11 new state government medical colleges inaugurated in Tamil Nadu in 2022; administered by DME, Government of Tamil Nadu.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "551",
+    "CollegeName": "Government Medical College Krishnagiri",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "One of 11 new state government medical colleges inaugurated in Tamil Nadu in 2022; administered by DME, Government of Tamil Nadu.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "552",
+    "CollegeName": "Government Medical College Nagapattinam",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "One of 11 new state government medical colleges inaugurated in Tamil Nadu in 2022; administered by DME, Government of Tamil Nadu.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "553",
+    "CollegeName": "Government Medical College Ariyalur",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "One of 11 new state government medical colleges inaugurated in Tamil Nadu in 2022; administered by DME, Government of Tamil Nadu.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "559",
+    "CollegeName": "Government Medical College Karur",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "560",
+    "CollegeName": "Government Medical College Pudukottai",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php",
+      "https://en.wikipedia.org/wiki/Government_Pudukkottai_Medical_College_and_Hospital"
+    ]
+  },
+  {
+    "SlNo": "561",
+    "CollegeName": "Government Medical College & ESIC Hospital Coimbatore",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "Originally an ESI (central, Employees' State Insurance Corporation / Ministry of Labour & Employment) hospital established 1970; upgraded to a medical college on 02.02.2016 and formally handed over by the Central Government / ESIC to the Government of Tamil Nadu at inauguration. Now administered by Tamil Nadu's DME, though ~20% of MBBS seats remain reserved for children of ESI-insured beneficiaries and the attached 510-bed hospital continues serving ESI beneficiaries. Classified as State given current administrative control.",
+    "Sources": [
+      "https://gmcesi.ac.in/about/",
+      "https://coimbatore.nic.in/public-utility/government-esi-medical-college-and-hospital/",
+      "https://en.wikipedia.org/wiki/Government_Medical_College_%26_ESI_Hospital,_Coimbatore"
+    ]
+  },
+  {
+    "SlNo": "562",
+    "CollegeName": "Government Medical College Omandurar",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college (Omandurar Government Estate, Chennai) affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "563",
+    "CollegeName": "ESIC Medical College & PGIMSR K.K. Nagar Chennai",
+    "Classification": "Central",
+    "FundingSource": "ESIC (Ministry of Labour & Employment, Government of India)",
+    "Notes": "Run directly by the Employees' State Insurance Corporation (ESIC), a central autonomous body under the Ministry of Labour & Employment, GoI; built on the site of the ESI Corporation Hospital, K.K. Nagar. Affiliated to The Tamilnadu Dr. MGR Medical University for academic/degree purposes only, not administered by the state government.",
+    "Sources": [
+      "https://mcchennai.esic.gov.in/",
+      "https://esic.gov.in/medical/esic-medical-college-pgimsr-kk-nagar-chennai"
+    ]
+  },
+  {
+    "SlNo": "565",
+    "CollegeName": "Government Thiruvannamalai Medical College Thiruvannamalai",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "566",
+    "CollegeName": "Government Sivagangai Medical College Sivaganga",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  },
+  {
+    "SlNo": "571",
+    "CollegeName": "Government Villupuram Medical College Villupuram",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php",
+      "https://en.wikipedia.org/wiki/Government_Villupuram_Medical_College"
+    ]
+  },
+  {
+    "SlNo": "572",
+    "CollegeName": "Thiruvarur Govt. Medical College Thiruvarur",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of Tamil Nadu",
+    "Notes": "State government medical college affiliated to The Tamilnadu Dr. MGR Medical University, administered by the DME under the Tamil Nadu Health & Family Welfare Department.",
+    "Sources": [
+      "https://tnhealth.tn.gov.in/tngovin/dme/dme.php"
+    ]
+  }
+]

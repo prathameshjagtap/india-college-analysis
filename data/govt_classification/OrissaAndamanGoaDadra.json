@@ -1,0 +1,176 @@
+[
+  {
+    "SlNo": "1",
+    "CollegeName": "Andaman & Nicobar Islands Institute of Medical Sciences Port Blair",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare, Government of India (via Andaman & Nicobar Medical Education and Research Society, under A&N Administration)",
+    "Notes": "UT-administered (Andaman & Nicobar Islands has no legislature); established as a 100% centrally-funded college under the Centrally Sponsored Scheme for new medical colleges, run by ANIMERS under the A&N Islands UT Administration.",
+    "Sources": [
+      "https://aniims.andamannicobar.gov.in/",
+      "https://southandaman.nic.in/public-utility/aniims/",
+      "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands_Institute_of_Medical_Sciences"
+    ]
+  },
+  {
+    "SlNo": "94",
+    "CollegeName": "NAMO Medical Education and Research Institute Silvassa",
+    "Classification": "Central",
+    "FundingSource": "U.T. Administration of Dadra & Nagar Haveli and Daman & Diu (Directorate of Medical & Health Services), developed under Ministry of Health & Family Welfare, Government of India",
+    "Notes": "UT-administered (Dadra and Nagar Haveli and Daman and Diu is a Union Territory without its own legislature); formerly Shri Vinoba Bhave Institute of Medical Sciences / Government Medical College, Silvassa.",
+    "Sources": [
+      "https://namomeridnhdd.in/",
+      "http://vbch.dnh.nic.in/content/namo-medical-education-research-institute-shri-vinoba-bhave-civil-hospital-silvassa",
+      "https://en.wikipedia.org/wiki/NAMO_Medical_Education_and_Research_Institute"
+    ]
+  },
+  {
+    "SlNo": "105",
+    "CollegeName": "Goa Medical College Panaji",
+    "Classification": "State",
+    "FundingSource": "Directorate of Health Services, Government of Goa",
+    "Notes": "Goa is a full state (not a UT); college and hospital run by Goa's Directorate of Health Services under the state Health Department.",
+    "Sources": [
+      "https://dhs.goa.gov.in/pages/hospital/goa-medical-college-and-hospital-bambolim",
+      "https://gmcgoa.edu.in/",
+      "https://en.wikipedia.org/wiki/Goa_Medical_College"
+    ]
+  },
+  {
+    "SlNo": "417",
+    "CollegeName": "Government Medical College and Hospital Jajpur",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education & Training (DMET), Department of Health & Family Welfare, Government of Odisha",
+    "Notes": "New (2024) government medical college run by the Odisha state health department, consistent with other DMET-run colleges in the state.",
+    "Sources": [
+      "https://dmet.odisha.gov.in/",
+      "https://health.odisha.gov.in/en/page/about-us-1"
+    ]
+  },
+  {
+    "SlNo": "419",
+    "CollegeName": "Government Medical College Bhawanipatna",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education & Training (DMET), Government of Odisha",
+    "Notes": "Also known as Saheed Rendo Majhi Medical College and Hospital, Kalahandi; official site is on the odisha.gov.in state government domain.",
+    "Sources": [
+      "https://srmmch.odisha.gov.in/",
+      "https://srmmch.odisha.gov.in/about_the_college_hospital/",
+      "https://en.wikipedia.org/wiki/Government_Medical_College_and_Hospital,_Bhawanipatna"
+    ]
+  },
+  {
+    "SlNo": "420",
+    "CollegeName": "SCB Medical College Cuttack",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education & Training (DMET), Department of Health & Family Welfare, Government of Odisha",
+    "Notes": "One of Odisha's oldest medical colleges (1944); official site states it operates under Dept. of Health & Family Welfare, Government of Odisha.",
+    "Sources": [
+      "https://scbmch.com/index.html",
+      "https://scbmch.com/about-us/index.html",
+      "https://dmet.odisha.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "421",
+    "CollegeName": "MKCG Medical College Berhampur",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education & Training (DMET), Government of Odisha",
+    "Notes": "Long-established (1962) state government medical college under Odisha's DMET; not individually re-verified beyond shared DMET source per state medical education structure.",
+    "Sources": [
+      "https://dmet.odisha.gov.in/en/light/page/medical-colleges"
+    ]
+  },
+  {
+    "SlNo": "422",
+    "CollegeName": "Veer Surendra Sai Institute of Medical Sciences and Research Burla",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education & Training (DMET), Government of Odisha",
+    "Notes": "State government medical college under Odisha's DMET; not individually re-verified beyond shared DMET source per state medical education structure.",
+    "Sources": [
+      "https://dmet.odisha.gov.in/en/light/page/medical-colleges"
+    ]
+  },
+  {
+    "SlNo": "423",
+    "CollegeName": "All India Institute of Medical Sciences Bhubaneswar",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare, Government of India (Pradhan Mantri Swasthya Suraksha Yojana)",
+    "Notes": "Institute of National Importance, autonomous statutory body established under the AIIMS (Amendment) Act, funded and run by the central government (MoHFW), on par with AIIMS Delhi.",
+    "Sources": [
+      "https://aiimsbhubaneswar.nic.in/introduction/",
+      "https://en.wikipedia.org/wiki/All_India_Institutes_of_Medical_Sciences"
+    ]
+  },
+  {
+    "SlNo": "424",
+    "CollegeName": "Sri Jagannath Medical College & Hospital Puri",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education & Training (DMET), Government of Odisha",
+    "Notes": "State government medical college under Odisha's DMET; not individually re-verified beyond shared DMET source per state medical education structure.",
+    "Sources": [
+      "https://dmet.odisha.gov.in/en/light/page/medical-colleges"
+    ]
+  },
+  {
+    "SlNo": "425",
+    "CollegeName": "Fakir Mohan Medical College & Hospital Balasore",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education & Training (DMET), Government of Odisha",
+    "Notes": "State government medical college under Odisha's DMET; not individually re-verified beyond shared DMET source per state medical education structure.",
+    "Sources": [
+      "https://dmet.odisha.gov.in/en/light/page/medical-colleges"
+    ]
+  },
+  {
+    "SlNo": "426",
+    "CollegeName": "Bhima Bhoi Medical College & Hospital Balangir",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education & Training (DMET), Government of Odisha",
+    "Notes": "State government medical college under Odisha's DMET; not individually re-verified beyond shared DMET source per state medical education structure.",
+    "Sources": [
+      "https://dmet.odisha.gov.in/en/light/page/medical-colleges"
+    ]
+  },
+  {
+    "SlNo": "427",
+    "CollegeName": "Pt. Raghunath Murmu Medical College and Hospital Baripada",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education & Training (DMET), Government of Odisha",
+    "Notes": "State government medical college under Odisha's DMET; not individually re-verified beyond shared DMET source per state medical education structure.",
+    "Sources": [
+      "https://dmet.odisha.gov.in/en/light/page/medical-colleges"
+    ]
+  },
+  {
+    "SlNo": "428",
+    "CollegeName": "Saheed Laxman Nayak Medical College & Hospital Koraput",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education & Training (DMET), Government of Odisha",
+    "Notes": "State government medical college under Odisha's DMET; not individually re-verified beyond shared DMET source per state medical education structure.",
+    "Sources": [
+      "https://dmet.odisha.gov.in/en/light/page/medical-colleges"
+    ]
+  },
+  {
+    "SlNo": "431",
+    "CollegeName": "Government Medical College Sundargarh",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education & Training (DMET), Department of Health & Family Welfare, Government of Odisha",
+    "Notes": "Official site is on the odisha.gov.in state government domain; new (2022) college attached to District Headquarters Hospital, Sundargarh.",
+    "Sources": [
+      "https://gmchsng.odisha.gov.in/",
+      "https://gmchsng.odisha.gov.in/about_the_college_hospital/",
+      "https://en.wikipedia.org/wiki/Government_Medical_College_and_Hospital,_Sundargarh"
+    ]
+  },
+  {
+    "SlNo": "432",
+    "CollegeName": "Government Medical College Keonjhar",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education & Training (DMET), Government of Odisha",
+    "Notes": "State government medical college under Odisha's DMET; not individually re-verified beyond shared DMET source per state medical education structure.",
+    "Sources": [
+      "https://dmet.odisha.gov.in/en/light/page/medical-colleges"
+    ]
+  }
+]

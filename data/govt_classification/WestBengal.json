@@ -1,0 +1,210 @@
+[
+  {
+    "SlNo": "746",
+    "CollegeName": "Institute of Postgraduate Medical Education & Research Kolkata",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal (Department of Health & Family Welfare)",
+    "Notes": "Affiliated to West Bengal University of Health Sciences; a state government autonomous institute (with SSKM Hospital) run by the WB Health Department.",
+    "Sources": ["https://wbmcc.nic.in/", "https://cdnbbsr.s3waas.gov.in/s3aae8d1e00b15a30e5901227e97ffbef7/uploads/2025/10/20251018578389928.pdf"]
+  },
+  {
+    "SlNo": "749",
+    "CollegeName": "All India Institute of Medical Sciences Kalyani",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare, Government of India",
+    "Notes": "Established under the AIIMS Act, 1956 by GoI notification (24 Jan 2018) as an Institute of National Importance under PMSSY; not affiliated to WBUHS despite the intake sheet listing it, it is statutorily autonomous.",
+    "Sources": ["https://pmssy.mohfw.gov.in/index4.php?lang=1&level=0&linkid=25&lid=29", "https://en.wikipedia.org/wiki/All_India_Institutes_of_Medical_Sciences"]
+  },
+  {
+    "SlNo": "750",
+    "CollegeName": "Burdwan Medical College Burdwan",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "Affiliated to West Bengal University of Health Sciences; state government medical college.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "751",
+    "CollegeName": "North Bengal Medical College Darjeeling",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "Affiliated to West Bengal University of Health Sciences; state government medical college.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "752",
+    "CollegeName": "Govt. Medical College Kolkata",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "Calcutta Medical College; oldest state government medical college in WB, affiliated to WBUHS.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "753",
+    "CollegeName": "Nilratan Sircar Medical College Kolkata",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "Affiliated to West Bengal University of Health Sciences; state government medical college.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "754",
+    "CollegeName": "RG Kar Medical College Kolkata",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "Affiliated to West Bengal University of Health Sciences; state government medical college.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "755",
+    "CollegeName": "Bankura Sammilani Medical College Bankura",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "Affiliated to West Bengal University of Health Sciences; state government medical college.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "756",
+    "CollegeName": "Calcutta National Medical College Kolkata",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "Affiliated to West Bengal University of Health Sciences; state government medical college.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "758",
+    "CollegeName": "Purulia Government Medical College & Hospital",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "New district medical college; part of the Centrally Sponsored Scheme for 'Establishment of new medical colleges attached with District/Referral Hospitals' (GoI provides partial capital funding) but administered and run by the West Bengal state government, affiliated to WBUHS.",
+    "Sources": ["https://wbmcc.nic.in/", "https://medicaldialogues.in/news/education/medical-colleges/6-new-medical-colleges-to-come-up-in-west-bengal-mbbs-pool-to-cross-4500-mark-80362"]
+  },
+  {
+    "SlNo": "759",
+    "CollegeName": "Raiganj Government Medical College & Hospital Raiganj",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "New district medical college under the Centrally Sponsored Scheme (partial GoI capital funding) but run by the state government, affiliated to WBUHS.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "760",
+    "CollegeName": "Diamond Harbour Government Medical College and Hospital",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "New district medical college under the Centrally Sponsored Scheme (partial GoI capital funding) but run by the state government, affiliated to WBUHS.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "761",
+    "CollegeName": "Coochbehar Government Medical College & Hospital Coochbehar",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "New district medical college under the Centrally Sponsored Scheme (partial GoI capital funding) but run by the state government, affiliated to WBUHS.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "762",
+    "CollegeName": "Rampurhat Government Medical College & Hospital Rampurhat",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "New district medical college under the Centrally Sponsored Scheme (partial GoI capital funding) but run by the state government, affiliated to WBUHS.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "767",
+    "CollegeName": "Employees State Insurance Corporation Medical College Joka Kolkata",
+    "Classification": "Central",
+    "FundingSource": "Employees' State Insurance Corporation (ESIC), Ministry of Labour & Employment, Government of India",
+    "Notes": "Run by ESIC, a central statutory body; affiliated to WBUHS for academic purposes but administrative/funding control is with ESIC/GoI, not the state.",
+    "Sources": ["https://mckolkata.esic.gov.in/", "https://mckolkata.esic.gov.in/medical-about-us"]
+  },
+  {
+    "SlNo": "768",
+    "CollegeName": "Murshidabad Medical College & Hospitals Murshidabad",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "Affiliated to West Bengal University of Health Sciences; state government medical college.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "769",
+    "CollegeName": "College of Medicine and Sagore Dutta Hospital Kamarhati",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "Affiliated to West Bengal University of Health Sciences; state government medical college.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "770",
+    "CollegeName": "Malda Medical College & Hospital Malda",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "Affiliated to West Bengal University of Health Sciences; state government medical college.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "772",
+    "CollegeName": "College of Medicine and JNM Hospital Kalyani Nadia",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "Affiliated to West Bengal University of Health Sciences; state government medical college (distinct from AIIMS Kalyani, also located in Kalyani).",
+    "Sources": ["https://wbmcc.nic.in/"]
+  },
+  {
+    "SlNo": "773",
+    "CollegeName": "Jalpaiguri Government Medical College",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "One of six new district medical colleges (est. 2022) under the Centrally Sponsored Scheme for new medical colleges attached to district/referral hospitals (partial GoI capital funding); run and administered by the state government, affiliated to WBUHS.",
+    "Sources": ["https://en.wikipedia.org/wiki/Jalpaiguri_Government_Medical_College_and_Hospital", "https://medicaldialogues.in/news/education/medical-colleges/6-new-medical-colleges-to-come-up-in-west-bengal-mbbs-pool-to-cross-4500-mark-80362"]
+  },
+  {
+    "SlNo": "774",
+    "CollegeName": "Tamralipto Government Medical College & Hospital",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "One of six new district medical colleges (est. 2022) under the Centrally Sponsored Scheme (partial GoI capital funding); run and administered by the state government, affiliated to WBUHS. Located at Tamluk, Purba Medinipur.",
+    "Sources": ["https://en.wikipedia.org/wiki/Tamralipto_Government_Medical_College_and_Hospital", "https://medicaldialogues.in/news/education/medical-colleges/6-new-medical-colleges-to-come-up-in-west-bengal-mbbs-pool-to-cross-4500-mark-80362"]
+  },
+  {
+    "SlNo": "775",
+    "CollegeName": "Prafulla Chandra Sen Government Medical College & Hospital",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "New district medical college (est. 2022) in Arambagh, Hooghly, under the Centrally Sponsored Scheme (partial GoI capital funding); run and administered by the state government, affiliated to WBUHS.",
+    "Sources": ["https://medicaldialogues.in/news/education/medical-colleges/6-new-medical-colleges-to-come-up-in-west-bengal-mbbs-pool-to-cross-4500-mark-80362"]
+  },
+  {
+    "SlNo": "776",
+    "CollegeName": "Barasat Government Medical College & Hospital",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "One of six new district medical colleges (est. 2022) under the Centrally Sponsored Scheme (partial GoI capital funding); run and administered by the state government, affiliated to WBUHS.",
+    "Sources": ["https://barasatgmch.ac.in/", "https://en.wikipedia.org/wiki/Barasat_Government_Medical_College_and_Hospital"]
+  },
+  {
+    "SlNo": "777",
+    "CollegeName": "Jhargram Government Medical College & Hospital Jhargram",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "New district medical college under the Centrally Sponsored Scheme (partial GoI capital funding); run and administered by the state government, affiliated to WBUHS.",
+    "Sources": ["https://en.wikipedia.org/wiki/Jhargram_Government_Medical_College_and_Hospital", "https://medicaldialogues.in/news/education/medical-colleges/6-new-medical-colleges-to-come-up-in-west-bengal-mbbs-pool-to-cross-4500-mark-80362"]
+  },
+  {
+    "SlNo": "778",
+    "CollegeName": "Sarat Chandra Chattopadhyay Government Medical College & Hospital",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "New district medical college (est. 2022) in Howrah/Uluberia, under the Centrally Sponsored Scheme (partial GoI capital funding); run and administered by the state government, affiliated to WBUHS.",
+    "Sources": ["https://medicaldialogues.in/news/education/medical-colleges/6-new-medical-colleges-to-come-up-in-west-bengal-mbbs-pool-to-cross-4500-mark-80362"]
+  },
+  {
+    "SlNo": "780",
+    "CollegeName": "Midnapore Medical College Midnapore",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education, Government of West Bengal",
+    "Notes": "Affiliated to West Bengal University of Health Sciences; state government medical college.",
+    "Sources": ["https://wbmcc.nic.in/"]
+  }
+]

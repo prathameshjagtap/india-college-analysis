@@ -1,0 +1,245 @@
+[
+  {
+    "SlNo": "109",
+    "CollegeName": "All India Institute of Medical Science Rajkot",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare, Government of India (established under PMSSY as an Institute of National Importance)",
+    "Notes": "AIIMS Rajkot is a central autonomous institute, funded and run directly by the Government of India, not the Gujarat state government.",
+    "Sources": [
+      "https://mohfw.gov.in/?q=en/newshighlights-218",
+      "https://aiimsrajkot.edu.in/",
+      "https://www.indiascienceandtechnology.gov.in/organisations/centres-of-higher-learning/aiims/all-india-institute-medical-sciences-aiims-rajkot-gujarat"
+    ]
+  },
+  {
+    "SlNo": "110",
+    "CollegeName": "Surat Municipal Institute of Medical Education & Research Surat",
+    "Classification": "State",
+    "FundingSource": "Surat Municipal Corporation (urban local body under Government of Gujarat)",
+    "Notes": "SMIMER is a public medical college owned and governed by the Surat Municipal Corporation, not the state Health Dept directly, but municipal corporations are local-government bodies under the state; classified as State/public (non-central).",
+    "Sources": [
+      "https://www.suratmunicipal.gov.in/smimer/AboutWebsite",
+      "https://en.wikipedia.org/wiki/Surat_Municipal_Institute_of_Medical_Education_and_Research"
+    ]
+  },
+  {
+    "SlNo": "111",
+    "CollegeName": "MP Shah Medical College Jamnagar",
+    "Classification": "State",
+    "FundingSource": "Health & Family Welfare Department / Medical Education, Government of Gujarat",
+    "Notes": "Long-established (1955) state government medical college affiliated to Saurashtra University; run directly by the Gujarat state government (predates GMERS society).",
+    "Sources": [
+      "https://en.wikipedia.org/wiki/M._P._Shah_Government_Medical_College"
+    ]
+  },
+  {
+    "SlNo": "112",
+    "CollegeName": "B J Medical College Ahmedabad",
+    "Classification": "State",
+    "FundingSource": "Health & Family Welfare Department / Medical Education, Government of Gujarat",
+    "Notes": "Government medical college affiliated to Gujarat University; run directly by state government, one of Gujarat's oldest govt medical colleges.",
+    "Sources": [
+      "https://en.wikipedia.org/wiki/B._J._Medical_College,_Ahmedabad",
+      "https://bjmcabd.edu.in/history/"
+    ]
+  },
+  {
+    "SlNo": "113",
+    "CollegeName": "Pandit Deendayal Upadhyay Medical College Rajkot",
+    "Classification": "State",
+    "FundingSource": "Health & Family Welfare Department / Medical Education, Government of Gujarat",
+    "Notes": "State government-run medical college (Pandit Deendayal Upadhyay Government Medical College) affiliated to Saurashtra University.",
+    "Sources": [
+      "https://rajkot.nic.in/public-utility/pandit-deendayal-upadhyay-medical-college-pdu/",
+      "https://en.wikipedia.org/wiki/Pandit_Deendayal_Upadhyay_Medical_College"
+    ]
+  },
+  {
+    "SlNo": "116",
+    "CollegeName": "Government Medical College Bhavnagar",
+    "Classification": "State",
+    "FundingSource": "Health & Family Welfare Department / Medical Education, Government of Gujarat",
+    "Notes": "Directly state-government-run medical college, affiliated to Maharaja Krishnakumarsinghji Bhavnagar University.",
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Government_Medical_College,_Bhavnagar"
+    ]
+  },
+  {
+    "SlNo": "117",
+    "CollegeName": "Medical College Baroda",
+    "Classification": "State",
+    "FundingSource": "Health & Family Welfare Department / Medical Education, Government of Gujarat",
+    "Notes": "Government Medical College Baroda, established 1949, run by Gujarat state government; affiliated to MS University of Baroda.",
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Government_Medical_College,_Vadodara"
+    ]
+  },
+  {
+    "SlNo": "118",
+    "CollegeName": "Smt. N.H.L. Municipal Medical College Ahmedabad",
+    "Classification": "State",
+    "FundingSource": "Ahmedabad Municipal Corporation (urban local body under Government of Gujarat)",
+    "Notes": "Established 1963 by the Ahmedabad Municipal Corporation (AMC); governed by AMC's health committee/governing body, not run by a central body. Classified as State/public.",
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Smt._NHL_Municipal_Medical_College",
+      "https://rmgoe.org/study-india/smt-n-h-l-municipal-medical-college-ahmedabad"
+    ]
+  },
+  {
+    "SlNo": "119",
+    "CollegeName": "Government Medical College Surat",
+    "Classification": "State",
+    "FundingSource": "Health & Family Welfare Department / Medical Education, Government of Gujarat",
+    "Notes": "Established 1964 as a direct state government medical college, affiliated to Veer Narmad South Gujarat University (distinct from the municipal SMIMER college also in Surat).",
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Government_Medical_College,_Surat"
+    ]
+  },
+  {
+    "SlNo": "127",
+    "CollegeName": "GMERS Medical College Vadnagar Mehsana",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), a society established by the Department of Health & Family Welfare, Government of Gujarat",
+    "Notes": "GMERS is a state-government-established autonomous/semi-government society (registered trust) that runs a network of medical colleges across Gujarat; self-financed but state-created and state-controlled, so classified as State.",
+    "Sources": [
+      "https://www.moksh16.com/medical-colleges-in-gujarat",
+      "http://gmersmorbi.com/"
+    ]
+  },
+  {
+    "SlNo": "130",
+    "CollegeName": "GMERS Medical College Hadiyol Himmatnagar",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), Government of Gujarat",
+    "Notes": "Part of the GMERS network of state-established medical colleges; see GMERS Society note.",
+    "Sources": [
+      "https://www.moksh16.com/medical-colleges-in-gujarat"
+    ]
+  },
+  {
+    "SlNo": "131",
+    "CollegeName": "GMERS Medical College Junagadh",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), Government of Gujarat",
+    "Notes": "Part of the GMERS network of state-established medical colleges; see GMERS Society note.",
+    "Sources": [
+      "https://www.moksh16.com/medical-colleges-in-gujarat"
+    ]
+  },
+  {
+    "SlNo": "132",
+    "CollegeName": "GMERS Medical College Valsad",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), Government of Gujarat",
+    "Notes": "Part of the GMERS network of state-established medical colleges; see GMERS Society note.",
+    "Sources": [
+      "https://www.moksh16.com/medical-colleges-in-gujarat"
+    ]
+  },
+  {
+    "SlNo": "133",
+    "CollegeName": "GMERS Medical College Dharpur Patan",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), Government of Gujarat",
+    "Notes": "Part of the GMERS network of state-established medical colleges; see GMERS Society note.",
+    "Sources": [
+      "https://gmersmchpatan.org/detail/810043/overview",
+      "https://www.moksh16.com/medical-colleges-in-gujarat"
+    ]
+  },
+  {
+    "SlNo": "134",
+    "CollegeName": "GMERS Medical College Gandhinagar",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), Government of Gujarat",
+    "Notes": "Part of the GMERS network of state-established medical colleges; see GMERS Society note.",
+    "Sources": [
+      "https://www.moksh16.com/medical-colleges-in-gujarat"
+    ]
+  },
+  {
+    "SlNo": "136",
+    "CollegeName": "GMERS Medical College Gotri Vadodara",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), Government of Gujarat",
+    "Notes": "Part of the GMERS network of state-established medical colleges; see GMERS Society note.",
+    "Sources": [
+      "https://gmersmcgv.ac.in/",
+      "https://www.moksh16.com/medical-colleges-in-gujarat"
+    ]
+  },
+  {
+    "SlNo": "137",
+    "CollegeName": "GMERS Medical College Sola Ahmedabad",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), Government of Gujarat",
+    "Notes": "Part of the GMERS network of state-established medical colleges; see GMERS Society note.",
+    "Sources": [
+      "https://www.moksh16.com/medical-colleges-in-gujarat"
+    ]
+  },
+  {
+    "SlNo": "139",
+    "CollegeName": "Ahmedabad Municipal Coporation Medical Education Trust Medical College Ahmedabad",
+    "Classification": "State",
+    "FundingSource": "Ahmedabad Municipal Corporation Medical Education Trust (AMC MET), an urban local body trust under Government of Gujarat",
+    "Notes": "Established 2009 by the Ahmedabad Municipal Corporation; renamed Narendra Modi Medical College in 2022. First medical college of its type run by a Municipal Corporation in India; classified as State/public, not central.",
+    "Sources": [
+      "https://en.wikipedia.org/wiki/Narendra_Modi_Medical_College",
+      "https://www.amcmet.org/our-sites-useful-links/ahmedabad-municipal-corporation/"
+    ]
+  },
+  {
+    "SlNo": "140",
+    "CollegeName": "Government Medical College Morbi",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), Department of Health & Family Welfare, Government of Gujarat",
+    "Notes": "Despite being listed as \"Government Medical College,\" this 2022-established college (along with Navsari, Panchmahal/Godhra, Porbandar, and Rajpipla) is run under GMERS Society, per the Department of Health & Family Welfare, Government of Gujarat.",
+    "Sources": [
+      "https://medicaldialogues.in/articles/top-medical-colleges-in-gujarat-110477",
+      "https://www.collnod.com/colleges/government-medical-college-morbi"
+    ]
+  },
+  {
+    "SlNo": "141",
+    "CollegeName": "Government Medical College Navsari",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), Department of Health & Family Welfare, Government of Gujarat",
+    "Notes": "One of 5 new GMERS-run medical colleges established in 2022 (Morbi, Porbandar, Navsari, Godhra, Rajpipla).",
+    "Sources": [
+      "https://medicaldialogues.in/articles/top-medical-colleges-in-gujarat-110477"
+    ]
+  },
+  {
+    "SlNo": "143",
+    "CollegeName": "Government Medical College Panchmahal Godhra",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), Department of Health & Family Welfare, Government of Gujarat",
+    "Notes": "GMERS Medical College, Panchmahal (Godhra), started August 2022; explicitly described as under GMERS Society of Dept of Health & Family Welfare, Government of Gujarat.",
+    "Sources": [
+      "https://frenzet.com/government-medical-college-panchmahal-godhra-mbbs/",
+      "https://medicaldialogues.in/articles/top-medical-colleges-in-gujarat-110477"
+    ]
+  },
+  {
+    "SlNo": "144",
+    "CollegeName": "Government Medical College Porbandar",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), Department of Health & Family Welfare, Government of Gujarat",
+    "Notes": "One of 5 new GMERS-run medical colleges established in 2022 (Morbi, Porbandar, Navsari, Godhra, Rajpipla); affiliated to Bhakt Kavi Narsinh Mehta University.",
+    "Sources": [
+      "https://www.worldwidecolleges.com/education/government-medical-college-porbandar/",
+      "https://medicaldialogues.in/articles/top-medical-colleges-in-gujarat-110477"
+    ]
+  },
+  {
+    "SlNo": "145",
+    "CollegeName": "GMERS Medical College Rajpipla",
+    "Classification": "State",
+    "FundingSource": "Gujarat Medical Education & Research Society (GMERS), Department of Health & Family Welfare, Government of Gujarat",
+    "Notes": "One of 5 new GMERS-run medical colleges established in 2022 (Morbi, Porbandar, Navsari, Godhra, Rajpipla).",
+    "Sources": [
+      "https://medicaldialogues.in/articles/top-medical-colleges-in-gujarat-110477"
+    ]
+  }
+]
