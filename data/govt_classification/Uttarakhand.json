@@ -1,0 +1,68 @@
+[
+  {
+    "SlNo": "734",
+    "CollegeName": "Government Medical College Haridwar",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education, Government of Uttarakhand",
+    "Notes": "State government medical college in Haridwar, funded by Govt of Uttarakhand.",
+    "Sources": [
+      "https://gmcharidwar.org/",
+      "https://medicaleducation.uk.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "737",
+    "CollegeName": "All India Institute of Medical Sciences Rishikesh",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare (MoHFW), Government of India",
+    "Notes": "Autonomous Institute of National Importance under MoHFW, Govt of India, established under PMSSY.",
+    "Sources": [
+      "https://aiimsrishikesh.edu.in/",
+      "https://pmssy-mohfw.nic.in/"
+    ]
+  },
+  {
+    "SlNo": "738",
+    "CollegeName": "Government Medical College Haldwani",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education, Government of Uttarakhand",
+    "Notes": "State government medical college (formerly Uttarakhand Forest Hospital Trust Medical College), funded by Govt of Uttarakhand.",
+    "Sources": [
+      "https://gmchld.ac.in/",
+      "https://medicaleducation.uk.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "740",
+    "CollegeName": "Soban Singh Jeena Government Institute of Medical Science & Research Almora",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education, Government of Uttarakhand",
+    "Notes": "State government medical college in Almora, funded by Govt of Uttarakhand.",
+    "Sources": [
+      "https://ssjgmcalmora.org/",
+      "https://medicaleducation.uk.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "741",
+    "CollegeName": "Doon Medical College Dehradun",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education, Government of Uttarakhand",
+    "Notes": "State government medical college in Dehradun, funded by Govt of Uttarakhand.",
+    "Sources": [
+      "https://gmcdehradun.org/",
+      "https://medicaleducation.uk.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "742",
+    "CollegeName": "Veer Chandra Singh Garhwali Govt. Medical Science & Research Instt Srinagar Pauri Garhwal",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education, Government of Uttarakhand",
+    "Notes": "State government medical college in Srinagar Garhwal, funded by Govt of Uttarakhand.",
+    "Sources": [
+      "https://vcsgmgmc.ac.in/",
+      "https://medicaleducation.uk.gov.in/"
+    ]
+  }
+]

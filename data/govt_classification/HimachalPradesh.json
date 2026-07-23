@@ -1,0 +1,79 @@
+[
+  {
+    "SlNo": "162",
+    "CollegeName": "Indira Gandhi Medical College Shimla",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research, Government of Himachal Pradesh",
+    "Notes": "Premier state medical college of Himachal Pradesh (est. 1966), funded by Govt of Himachal Pradesh.",
+    "Sources": [
+      "https://igmcshimla.edu.in/",
+      "https://hp.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "163",
+    "CollegeName": "All India Institute of Medical Sciences Bilaspur",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare (MoHFW), Government of India",
+    "Notes": "Autonomous Institute of National Importance under MoHFW, Govt of India, established under PMSSY.",
+    "Sources": [
+      "https://aiimsbilaspur.edu.in/",
+      "https://pmssy-mohfw.nic.in/"
+    ]
+  },
+  {
+    "SlNo": "164",
+    "CollegeName": "Dr. Radhakrishnan Government Medical College Hamirpur",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research, Government of Himachal Pradesh",
+    "Notes": "State government medical college in Hamirpur, funded by Govt of Himachal Pradesh.",
+    "Sources": [
+      "https://rgmchamirpur.org/",
+      "https://hp.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "165",
+    "CollegeName": "Pt. Jawahar Lal Nehru Government Medical College Chamba",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research, Government of Himachal Pradesh",
+    "Notes": "State government medical college in Chamba, funded by Govt of Himachal Pradesh.",
+    "Sources": [
+      "https://gmcchamba.edu.in/",
+      "https://hp.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "166",
+    "CollegeName": "Shri Lal Bahadur Shastri Government Medical College Mandi",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research, Government of Himachal Pradesh",
+    "Notes": "State government medical college at Nerchowk, Mandi, funded by Govt of Himachal Pradesh.",
+    "Sources": [
+      "https://slbsgmcmandi.com/",
+      "https://hp.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "167",
+    "CollegeName": "Government Medical College Nahan Sirmour",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research, Government of Himachal Pradesh",
+    "Notes": "Dr. Yashwant Singh Parmar Govt Medical College Nahan, funded by Govt of Himachal Pradesh.",
+    "Sources": [
+      "https://yspgmc.edu.in/",
+      "https://hp.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "169",
+    "CollegeName": "Dr. Rajender Prasad Government Medical College Tanda",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research, Government of Himachal Pradesh",
+    "Notes": "State government medical college at Tanda, Kangra, funded by Govt of Himachal Pradesh.",
+    "Sources": [
+      "https://rpgmc.ac.in/",
+      "https://hp.gov.in/"
+    ]
+  }
+]

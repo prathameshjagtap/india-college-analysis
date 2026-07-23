@@ -1,0 +1,24 @@
+[
+  {
+    "SlNo": "440",
+    "CollegeName": "Jawaharlal Instt. of Postgraduate Medical Education & Research Puducherry",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare (MoHFW), Government of India",
+    "Notes": "Autonomous Institute of National Importance under JIPMER Act, 2008, fully funded by MoHFW, Govt of India.",
+    "Sources": [
+      "https://jipmer.edu.in/",
+      "https://mohfw.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "444",
+    "CollegeName": "Indira Gandhi Medical College & Research Institute Puducherry",
+    "Classification": "State",
+    "FundingSource": "Government of Puducherry (Puducherry Medical College Society)",
+    "Notes": "State/UT government medical college run by Puducherry Medical College Society, funded by Govt of Puducherry.",
+    "Sources": [
+      "https://igmcri.com/",
+      "https://py.gov.in/"
+    ]
+  }
+]

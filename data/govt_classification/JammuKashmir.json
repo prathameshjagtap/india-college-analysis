@@ -1,0 +1,123 @@
+[
+  {
+    "SlNo": "170",
+    "CollegeName": "Government Medical College Udhampur",
+    "Classification": "State",
+    "FundingSource": "Health and Medical Education Department, Government of Jammu & Kashmir (UT)",
+    "Notes": "State/UT government medical college in Udhampur, funded by Govt of J&K.",
+    "Sources": [
+      "https://gmcudhampur.in/",
+      "https://jkhealth.org/"
+    ]
+  },
+  {
+    "SlNo": "171",
+    "CollegeName": "Government Medical College Handwara",
+    "Classification": "State",
+    "FundingSource": "Health and Medical Education Department, Government of Jammu & Kashmir (UT)",
+    "Notes": "State/UT government medical college in Kupwara/Handwara, funded by Govt of J&K.",
+    "Sources": [
+      "https://gmchandwara.edu.in/",
+      "https://jkhealth.org/"
+    ]
+  },
+  {
+    "SlNo": "172",
+    "CollegeName": "All India Institute of Medical Science Vijaypur",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare (MoHFW), Government of India",
+    "Notes": "Autonomous Institute of National Importance under MoHFW, Govt of India, established under PMSSY.",
+    "Sources": [
+      "https://aiimsjammu.edu.in/",
+      "https://pmssy-mohfw.nic.in/"
+    ]
+  },
+  {
+    "SlNo": "173",
+    "CollegeName": "Government Medical College Jammu",
+    "Classification": "State",
+    "FundingSource": "Health and Medical Education Department, Government of Jammu & Kashmir (UT)",
+    "Notes": "Premier state medical college in Jammu (est. 1973), funded by Govt of J&K.",
+    "Sources": [
+      "https://gmcjammu.nic.in/",
+      "https://jkhealth.org/"
+    ]
+  },
+  {
+    "SlNo": "174",
+    "CollegeName": "Government Medical College Srinagar",
+    "Classification": "State",
+    "FundingSource": "Health and Medical Education Department, Government of Jammu & Kashmir (UT)",
+    "Notes": "Premier state medical college in Srinagar (est. 1959), funded by Govt of J&K.",
+    "Sources": [
+      "https://gmcs.edu.in/",
+      "https://jkhealth.org/"
+    ]
+  },
+  {
+    "SlNo": "175",
+    "CollegeName": "Sher-I-Kashmir Instt. Of Medical Sciences Srinagar",
+    "Classification": "State",
+    "FundingSource": "Health and Medical Education Department, Government of Jammu & Kashmir (UT)",
+    "Notes": "Autonomous medical institute & deemed university under J&K State Legislature Act, funded under J&K Health Budget.",
+    "Sources": [
+      "https://skims.ac.in/",
+      "https://jkhealth.org/"
+    ]
+  },
+  {
+    "SlNo": "176",
+    "CollegeName": "Govt. Medical College Doda",
+    "Classification": "State",
+    "FundingSource": "Health and Medical Education Department, Government of Jammu & Kashmir (UT)",
+    "Notes": "State/UT government medical college in Doda, funded by Govt of J&K.",
+    "Sources": [
+      "https://gmcdoda.edu.in/",
+      "https://jkhealth.org/"
+    ]
+  },
+  {
+    "SlNo": "177",
+    "CollegeName": "Government Medical College Rajouri",
+    "Classification": "State",
+    "FundingSource": "Health and Medical Education Department, Government of Jammu & Kashmir (UT)",
+    "Notes": "State/UT government medical college in Rajouri, funded by Govt of J&K.",
+    "Sources": [
+      "https://gmcrajouri.in/",
+      "https://jkhealth.org/"
+    ]
+  },
+  {
+    "SlNo": "178",
+    "CollegeName": "Government Medical College Kathua",
+    "Classification": "State",
+    "FundingSource": "Health and Medical Education Department, Government of Jammu & Kashmir (UT)",
+    "Notes": "State/UT government medical college in Kathua, funded by Govt of J&K.",
+    "Sources": [
+      "https://gmckathua.in/",
+      "https://jkhealth.org/"
+    ]
+  },
+  {
+    "SlNo": "179",
+    "CollegeName": "Government Medical College Baramulla",
+    "Classification": "State",
+    "FundingSource": "Health and Medical Education Department, Government of Jammu & Kashmir (UT)",
+    "Notes": "State/UT government medical college in Baramulla, funded by Govt of J&K.",
+    "Sources": [
+      "https://gmcbaramulla.org.in/",
+      "https://jkhealth.org/"
+    ]
+  },
+  {
+    "SlNo": "180",
+    "CollegeName": "Government Medical College Anantnag",
+    "Classification": "State",
+    "FundingSource": "Health and Medical Education Department, Government of Jammu & Kashmir (UT)",
+    "Notes": "State/UT government medical college in Anantnag, funded by Govt of J&K.",
+    "Sources": [
+      "https://gmcanantnag.net/",
+      "https://jkhealth.org/"
+    ]
+  }
+]

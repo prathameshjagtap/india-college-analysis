@@ -1,0 +1,134 @@
+[
+  {
+    "SlNo": "267",
+    "CollegeName": "Government Medical College Ernakulam",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Government of Kerala",
+    "Notes": "Originally CAPE co-operative institution, taken over by Govt of Kerala in 2013 as a full state government medical college.",
+    "Sources": [
+      "https://dme.kerala.gov.in/",
+      "https://cmcekm.ac.in/"
+    ]
+  },
+  {
+    "SlNo": "268",
+    "CollegeName": "Government Medical College Kottayam",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Government of Kerala",
+    "Notes": "State government medical college established in 1962, funded by Govt of Kerala.",
+    "Sources": [
+      "https://gmckottayam.ac.in/",
+      "https://dme.kerala.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "269",
+    "CollegeName": "Government Medical College Thrissur",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Government of Kerala",
+    "Notes": "State government medical college established in 1982, funded by Govt of Kerala.",
+    "Sources": [
+      "https://gmctsr.ac.in/",
+      "https://dme.kerala.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "271",
+    "CollegeName": "Govt. Medical College Pariyaram Kannur",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Government of Kerala",
+    "Notes": "Originally cooperative Academy of Medical Sciences (ACME), taken over by Govt of Kerala under GMC Pariyaram Takeover Act, 2018.",
+    "Sources": [
+      "https://gmckannur.edu.in/",
+      "https://dme.kerala.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "275",
+    "CollegeName": "Government Medical College Kozhikode Calicut",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Government of Kerala",
+    "Notes": "Premier state medical college in Kozhikode (est. 1957), funded by Govt of Kerala.",
+    "Sources": [
+      "https://govtmedicalcollegekozhikode.ac.in/",
+      "https://dme.kerala.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "277",
+    "CollegeName": "T D Medical College Alleppey",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Government of Kerala",
+    "Notes": "State government medical college in Alappuzha (est. 1963, taken over by Govt of Kerala in 1967).",
+    "Sources": [
+      "https://tdmc.ac.in/",
+      "https://dme.kerala.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "281",
+    "CollegeName": "Medical College Thiruvananthapuram",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Government of Kerala",
+    "Notes": "First medical college in Kerala (est. 1951), funded by Govt of Kerala.",
+    "Sources": [
+      "https://tmc.kerala.gov.in/",
+      "https://dme.kerala.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "283",
+    "CollegeName": "Government Medical College Parippally Kollam",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Government of Kerala",
+    "Notes": "Originally established by ESIC, taken over by Govt of Kerala in 2016 under a 99-year lease as Kollam district's first state medical college.",
+    "Sources": [
+      "https://gmckollam.edu.in/",
+      "https://dme.kerala.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "285",
+    "CollegeName": "Government Medical College Yakkara Palakkad",
+    "Classification": "State",
+    "FundingSource": "Institute of Communicable Diseases / SC-ST Development Department, Government of Kerala",
+    "Notes": "State government medical college established under SC/ST Development Dept, Govt of Kerala.",
+    "Sources": [
+      "https://gmcpalakkad.in/",
+      "https://dme.kerala.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "290",
+    "CollegeName": "Government Medical College Manjeri Malapuram",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Government of Kerala",
+    "Notes": "State government medical college in Malappuram district (est. 2013), funded by Govt of Kerala.",
+    "Sources": [
+      "https://gmcmanjeri.org/",
+      "https://dme.kerala.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "295",
+    "CollegeName": "Government Medical College Konni",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Government of Kerala",
+    "Notes": "State government medical college in Pathanamthitta district, funded by Govt of Kerala.",
+    "Sources": [
+      "https://gmckonni.ac.in/",
+      "https://dme.kerala.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "296",
+    "CollegeName": "Government Medical College Idukki",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Government of Kerala",
+    "Notes": "State government medical college at Painavu, Idukki, funded by Govt of Kerala.",
+    "Sources": [
+      "https://gmcidukki.ac.in/",
+      "https://dme.kerala.gov.in/"
+    ]
+  }
+]

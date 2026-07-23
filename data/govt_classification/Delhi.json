@@ -1,0 +1,85 @@
+[
+  {
+    "SlNo": "95",
+    "CollegeName": "Vardhman Mahavir Medical College & Safdarjung Hospital Delhi",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare (MoHFW), Government of India",
+    "Notes": "Central government medical college established at Safdarjung Hospital (Central Govt Hospital under MoHFW), affiliated to GGSIPU.",
+    "Sources": [
+      "https://vmmc-sjh.nic.in/"
+    ]
+  },
+  {
+    "SlNo": "97",
+    "CollegeName": "All India Institute of Medical Sciences New Delhi",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare (MoHFW), Government of India",
+    "Notes": "Apex Central Autonomous Institute of National Importance under AIIMS Act, 1956.",
+    "Sources": [
+      "https://www.aiims.edu/"
+    ]
+  },
+  {
+    "SlNo": "98",
+    "CollegeName": "University College of Medical Sciences & GTB Hospital New Delhi",
+    "Classification": "State",
+    "FundingSource": "Department of Health & Family Welfare, Government of NCT of Delhi",
+    "Notes": "Historically funded by UGC/MoE via Delhi University (Central University); administrative and financial governance officially transferred to Govt of NCT of Delhi by Delhi High Court order.",
+    "Sources": [
+      "https://ucms.ac.in/",
+      "https://delhi.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "99",
+    "CollegeName": "Lady Hardinge Medical College New Delhi",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare (MoHFW), Government of India",
+    "Notes": "Central government medical college directly under MoHFW, Govt of India, affiliated to Delhi University.",
+    "Sources": [
+      "https://lhmc-hosp.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "100",
+    "CollegeName": "Maulana Azad Medical College New Delhi",
+    "Classification": "State",
+    "FundingSource": "Department of Health & Family Welfare, Government of NCT of Delhi",
+    "Notes": "State medical college established and funded by the Government of NCT of Delhi, affiliated to Delhi University.",
+    "Sources": [
+      "https://mamc.ac.in/",
+      "https://delhi.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "101",
+    "CollegeName": "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital New Delhi",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare (MoHFW), Government of India",
+    "Notes": "Central government medical institute at Dr. RML Hospital under MoHFW, Govt of India, affiliated to GGSIPU.",
+    "Sources": [
+      "https://abvimsdrrmlh.ac.in/"
+    ]
+  },
+  {
+    "SlNo": "102",
+    "CollegeName": "Dr. Baba Saheb Ambedkar Medical College Rohini Delhi",
+    "Classification": "State",
+    "FundingSource": "Department of Health & Family Welfare, Government of NCT of Delhi",
+    "Notes": "State medical college established and funded by Govt of NCT of Delhi, affiliated to GGSIPU.",
+    "Sources": [
+      "https://bsamch.ac.in/",
+      "https://delhi.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "103",
+    "CollegeName": "North Delhi Muncipal Corporation Medical College Delhi",
+    "Classification": "State",
+    "FundingSource": "Municipal Corporation of Delhi (MCD) / Govt of NCT of Delhi",
+    "Notes": "Municipal government medical college run by MCD at Hindu Rao Hospital, affiliated to GGSIPU.",
+    "Sources": [
+      "https://mcdonline.nic.in/"
+    ]
+  }
+]

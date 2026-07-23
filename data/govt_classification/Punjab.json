@@ -1,0 +1,57 @@
+[
+  {
+    "SlNo": "446",
+    "CollegeName": "Guru Govind Singh Medical College Faridkot",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research, Government of Punjab",
+    "Notes": "Constituent college of Baba Farid University of Health Sciences, funded by Govt of Punjab.",
+    "Sources": [
+      "https://ggsmch.org/",
+      "https://bfuhs.ac.in/"
+    ]
+  },
+  {
+    "SlNo": "451",
+    "CollegeName": "All India Institute of Medical Sciences Bhatinda",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare (MoHFW), Government of India",
+    "Notes": "Autonomous Institute of National Importance under MoHFW, Govt of India, established under PMSSY.",
+    "Sources": [
+      "https://aiimsbathinda.edu.in/",
+      "https://pmssy-mohfw.nic.in/"
+    ]
+  },
+  {
+    "SlNo": "452",
+    "CollegeName": "Government Medical College Patiala",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research, Government of Punjab",
+    "Notes": "Premier state medical college established in 1953, funded by Govt of Punjab.",
+    "Sources": [
+      "https://gmcpatiala.com/",
+      "https://punjab.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "453",
+    "CollegeName": "Government Medical College Amritsar",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research, Government of Punjab",
+    "Notes": "Historic state medical college (est. 1943), funded by Govt of Punjab.",
+    "Sources": [
+      "https://gmc.edu.in/",
+      "https://punjab.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "455",
+    "CollegeName": "Dr B R Ambedkar State Institute of Medical Sciences SAS Nagar Mohali",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research, Government of Punjab",
+    "Notes": "State government medical college in Mohali, funded by Govt of Punjab (AIMS Mohali).",
+    "Sources": [
+      "https://aimsmohali.punjab.gov.in/",
+      "https://punjab.gov.in/"
+    ]
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "SlNo": "41",
+    "CollegeName": "Tinsukia Medical College Assam",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "State government medical college established under the Govt of Assam medical education expansion program.",
+    "Sources": [
+      "https://dme.assam.gov.in/",
+      "https://tinsukiamedicalcollege.ac.in/"
+    ]
+  },
+  {
+    "SlNo": "42",
+    "CollegeName": "Nalbari Medical College Nalbari",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "State government medical college in Nalbari, fully funded by the Government of Assam.",
+    "Sources": [
+      "https://dme.assam.gov.in/",
+      "https://nalbarimc.ac.in/"
+    ]
+  },
+  {
+    "SlNo": "43",
+    "CollegeName": "Gauhati Medical College Guwahati",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "Premier state government medical college established in 1960 under the Government of Assam.",
+    "Sources": [
+      "https://gmchassam.gov.in/",
+      "https://dme.assam.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "44",
+    "CollegeName": "All India Institute of Medical Sciences (AIIMS) Guwahati",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare (MoHFW), Government of India",
+    "Notes": "Autonomous Institute of National Importance under MoHFW, Govt of India, established under PMSSY.",
+    "Sources": [
+      "https://aiimsguwahati.ac.in/",
+      "https://pmssy-mohfw.nic.in/"
+    ]
+  },
+  {
+    "SlNo": "45",
+    "CollegeName": "Silchar Medical College Silchar",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "State government medical college established in 1968, funded by Govt of Assam.",
+    "Sources": [
+      "https://smcassam.gov.in/",
+      "https://dme.assam.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "46",
+    "CollegeName": "Jorhat Medical College & Hospital Jorhat",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "State government medical college established in 2009 under Govt of Assam.",
+    "Sources": [
+      "https://jorhatmedicalcollege.in/",
+      "https://dme.assam.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "47",
+    "CollegeName": "Assam Medical College Dibrugarh",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "Oldest state medical college in North-East India (est. 1947), funded by Govt of Assam.",
+    "Sources": [
+      "https://assammedicalcollege.in/",
+      "https://dme.assam.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "48",
+    "CollegeName": "Lakhimpur Medical College",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "State government medical college in North Lakhimpur, funded by Govt of Assam.",
+    "Sources": [
+      "https://lakhimpurmedicalcollege.in/",
+      "https://dme.assam.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "49",
+    "CollegeName": "Diphu Medical College & Hospital Diphu",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "State government medical college in Karbi Anglong district, funded by Govt of Assam.",
+    "Sources": [
+      "https://dmchassam.org/",
+      "https://dme.assam.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "50",
+    "CollegeName": "Tezpur Medical College & Hospital Tezpur",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "State government medical college established in 2013 under Govt of Assam.",
+    "Sources": [
+      "https://tezpurmedicalcollege.org/",
+      "https://dme.assam.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "51",
+    "CollegeName": "Nagaon Medical College",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "State government medical college in Nagaon, funded by Govt of Assam.",
+    "Sources": [
+      "https://nagaonmc.ac.in/",
+      "https://dme.assam.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "52",
+    "CollegeName": "Kokrajhar Medical College",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "State government medical college in BTR region, funded by Govt of Assam.",
+    "Sources": [
+      "https://kokrajharmc.ac.in/",
+      "https://dme.assam.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "53",
+    "CollegeName": "Dhubri Medical College Dhubri",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "State government medical college in Dhubri, funded by Govt of Assam.",
+    "Sources": [
+      "https://dhubrimedicalcollege.in/",
+      "https://dme.assam.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "54",
+    "CollegeName": "Fakhruddin Ali Ahmed Medical College Barpeta",
+    "Classification": "State",
+    "FundingSource": "Directorate of Medical Education (DME), Department of Health & Family Welfare, Government of Assam",
+    "Notes": "State government medical college established in 2011, funded by Govt of Assam.",
+    "Sources": [
+      "https://faamc.ac.in/",
+      "https://dme.assam.gov.in/"
+    ]
+  }
+]

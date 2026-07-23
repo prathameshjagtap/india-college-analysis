@@ -1,0 +1,35 @@
+[
+  {
+    "SlNo": "409",
+    "CollegeName": "Regional Institute of Medical Sciences Imphal",
+    "Classification": "Central",
+    "FundingSource": "Ministry of Health & Family Welfare (MoHFW), Government of India",
+    "Notes": "Autonomous regional public medical institute fully funded by MoHFW, Govt of India.",
+    "Sources": [
+      "https://www.rims.edu.in/",
+      "https://mohfw.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "411",
+    "CollegeName": "Government Medical College Churachandpur",
+    "Classification": "State",
+    "FundingSource": "Department of Health & Family Welfare, Government of Manipur",
+    "Notes": "State government medical college in Churachandpur, funded by Govt of Manipur.",
+    "Sources": [
+      "https://gmcchurachandpur.edu.in/",
+      "https://manipur.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "412",
+    "CollegeName": "Jawaharlal Nehru Institute of Medical Sciences Porompat Imphal",
+    "Classification": "State",
+    "FundingSource": "Government of Manipur (JNIMS Society)",
+    "Notes": "State medical college operated under autonomous JNIMS Society, funded by Govt of Manipur.",
+    "Sources": [
+      "https://jnims.nic.in/",
+      "https://manipur.gov.in/"
+    ]
+  }
+]

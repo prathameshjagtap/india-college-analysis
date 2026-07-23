@@ -1,0 +1,68 @@
+[
+  {
+    "SlNo": "151",
+    "CollegeName": "Pt. B D Sharma Postgraduate Institute of Medical Sciences Rohtak",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research (DMER), Government of Haryana",
+    "Notes": "Premier state medical institution of Haryana under Pt. B.D. Sharma University of Health Sciences, funded by Govt of Haryana.",
+    "Sources": [
+      "https://pgimsrohtak.ac.in/",
+      "https://dmer.haryana.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "154",
+    "CollegeName": "Kalpana Chawala Govt. Medical College Karnal",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research (DMER), Government of Haryana",
+    "Notes": "State government medical college in Karnal, funded by Govt of Haryana.",
+    "Sources": [
+      "https://kcgmc.edu.in/",
+      "https://dmer.haryana.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "158",
+    "CollegeName": "Employees State Insurance Corporation Medical College Faridabad",
+    "Classification": "Central",
+    "FundingSource": "Employees' State Insurance Corporation (ESIC), Ministry of Labour and Employment, Government of India",
+    "Notes": "Central statutory body medical college under Ministry of Labour & Employment, Govt of India, affiliated to Pt. B.D. Sharma UHS Rohtak.",
+    "Sources": [
+      "https://www.esic.gov.in/medical-college-hospital-faridabad",
+      "https://labour.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "159",
+    "CollegeName": "Shaheed Hasan Khan Mewati Government Medical College Nalhar",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research (DMER), Government of Haryana",
+    "Notes": "State government medical college in Mewat (Nuh), funded by Govt of Haryana.",
+    "Sources": [
+      "https://gmcnuh.ac.in/",
+      "https://dmer.haryana.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "160",
+    "CollegeName": "Shri Atal Bihari Vajpayee Government Medical College Faridabad",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research (DMER), Government of Haryana",
+    "Notes": "State government medical college at Chhainsa, Faridabad, funded by Govt of Haryana.",
+    "Sources": [
+      "https://sabvg mcfaridabad.ac.in/",
+      "https://dmer.haryana.gov.in/"
+    ]
+  },
+  {
+    "SlNo": "161",
+    "CollegeName": "BPS Government Medical College for Women Sonepat",
+    "Classification": "State",
+    "FundingSource": "Department of Medical Education and Research (DMER), Government of Haryana",
+    "Notes": "State government women medical college at Khanpur Kalan, Sonepat, funded by Govt of Haryana.",
+    "Sources": [
+      "https://bpsgmckhanpur.ac.in/",
+      "https://dmer.haryana.gov.in/"
+    ]
+  }
+]
