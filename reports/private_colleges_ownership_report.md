@@ -154,3 +154,42 @@ The complete granular data supporting this report has been systematically genera
    - Contains `SlNo`, `CollegeName`, `State`, `District`, `University`, `Management`, `ParentOrganization`, `KeyPeople`, `PoliticalAffiliation`, `FundingSource`, and `SummaryReport` for every private medical college in India.
 2. **`data/private_college_sources.json`** (351 Verification Links):
    - Contains direct web search, Wikipedia, official trust, NIRF, and statutory disclosure URLs establishing proof of ownership and governance.
+
+---
+
+## Political Climate at the Time of Establishment
+
+By correlating the year of establishment (`YearEstablished`) with the historical timelines of ruling governments at both the Central and State levels, we can observe the political environment during which private medical colleges were founded.
+
+### Center Ruling Government at Establishment
+The majority of private medical colleges were established during the tenure of a few prominent central governments, reflecting periods of aggressive policy liberalization in medical education.
+
+| Center Ruling Party / Coalition | Number of Private Colleges Established | Percentage |
+| :--- | :---: | :---: |
+| BJP (NDA) | 208 | 59.3% |
+| INC (UPA) | 91 | 25.9% |
+| INC | 32 | 9.1% |
+| United Front | 7 | 2.0% |
+| Janata Dal / Samajwadi Janata Party | 6 | 1.7% |
+| Janata Dal | 5 | 1.4% |
+| Janata Party | 1 | 0.3% |
+| British India | 1 | 0.3% |
+
+
+### State Ruling Government at Establishment (Top 10)
+At the state level, the proliferation of private medical colleges often aligns with regional governments that actively promoted private trusts and societies in higher education.
+
+| State Ruling Party | Number of Private Colleges Established |
+| :--- | :---: |
+| BJP | 74 |
+| INC | 71 |
+| DMK | 23 |
+| SP | 16 |
+| AIADMK | 15 |
+| TDP | 13 |
+| BRS (TRS) | 13 |
+| CPI(M) (LDF) | 11 |
+| INC (UDF) | 11 |
+| AITC (Trinamool Congress) | 10 |
+
+*Note: This data reflects the ruling party/coalition at the exact year of inception for each college based on historical records.*

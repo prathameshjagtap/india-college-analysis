@@ -18,7 +18,9 @@
     "FundingSource": "Student tuition fees, super-specialty hospital operational revenues, promoter capital from Laila Group.",
     "SummaryReport": "Established in 1999 by Alluri Sitarama Raju Educational Society under the leadership of industrialist and former BJP MP Dr. Gokaraju Ganga Raju. Funded via self-financing medical college fee structure and hospital operations.",
     "YearEstablished": "2000",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "8",
@@ -44,7 +46,9 @@
     "FundingSource": "Apollo Hospitals Enterprise Ltd corporate backing, clinical hospital earnings, student tuition fees.",
     "SummaryReport": "Founded by Apollo Hospitals Group chairman Dr. Prathap C. Reddy under Apollo Hospitals Educational Trust. Funded primarily through Apollo corporate healthcare group resources and student fees.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "9",
@@ -70,7 +74,9 @@
     "FundingSource": "Trust endowment, tuition fees, Siddhartha Academy institutional funds, hospital income.",
     "SummaryReport": "Operated by Siddhartha Academy (SAGTE), a premier educational society in Vijayawada. Named after donor Dr. Pinnamaneni Siddhartha Rao. Self-financed through academy endowments and student fees.",
     "YearEstablished": "2002",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "10",
@@ -91,7 +97,9 @@
     "FundingSource": "Muslim minority trust funding, student tuition fees, hospital service charges.",
     "SummaryReport": "Established in 2010 as a Muslim minority medical college managed by Mohammadiya Educational Society in Kadapa. Financed through student fees and trust funding.",
     "YearEstablished": "2010",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "11",
@@ -117,7 +125,9 @@
     "FundingSource": "GVP Society funds, student tuition fees, clinical hospital income.",
     "SummaryReport": "Founded in 2016 by Gayatri Vidya Parishad, an esteemed society of academicians and philanthropists in Vizag. Funded via self-financing academic trust model.",
     "YearEstablished": "2016",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "12",
@@ -143,7 +153,9 @@
     "FundingSource": "Deemed university tuition fees, research grants, hospital patient fees, NRI student seat revenues.",
     "SummaryReport": "Constituent medical college of GITAM Deemed University, established by late TDP MP Dr. M.V.V.S. Murthi. Governed by GITAM Trust headed by MP M. Sribharat.",
     "YearEstablished": "2015",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "19",
@@ -164,7 +176,9 @@
     "FundingSource": "Self-financing student tuition, hospital outpatient and clinical service fees.",
     "SummaryReport": "Established in 2010 by Aditya Educational Society to provide medical education and healthcare in North Coastal Andhra Pradesh. Self-funded institution.",
     "YearEstablished": "2010",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "20",
@@ -190,7 +204,9 @@
     "FundingSource": "Student tuition fees, multi-specialty hospital revenue, diagnostic services earnings.",
     "SummaryReport": "Founded in 2002 by Dr. Ganni Bhaskara Rao under GSL Educational Society. Funded through self-financing medical college tuition structure and hospital revenues.",
     "YearEstablished": "2002",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "22",
@@ -211,7 +227,9 @@
     "FundingSource": "Tuition fees, hospital earnings, promoter endowment.",
     "SummaryReport": "Established in 2002 under Katuri Health Foundation near Guntur. Operated on a self-financing model using fee revenues and hospital services.",
     "YearEstablished": "2002",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "23",
@@ -232,7 +250,9 @@
     "FundingSource": "Self-financing student tuition, hospital health scheme receipts, NRI quota seat revenues.",
     "SummaryReport": "Founded in 2005 in Konaseema region by former MLC Dr. K.V.V. Satyanarayana Raju under VSL Educational Society. Self-funded private trust institution.",
     "YearEstablished": "2005",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "25",
@@ -258,7 +278,9 @@
     "FundingSource": "MANSAS Trust royal endowments, student fees, teaching hospital revenue.",
     "SummaryReport": "Established in 2002 in Vizianagaram, tied to the historic MANSAS Trust created by the Vizianagaram royal family (headed by TDP leader P. Ashok Gajapathi Raju). Self-financing trust institution.",
     "YearEstablished": "2002",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "26",
@@ -279,7 +301,9 @@
     "FundingSource": "Narayana Educational Group revenues, student tuition fees, NRI seat quota fees, super-specialty hospital earnings.",
     "SummaryReport": "Founded in 2000 by TDP Cabinet Minister Dr. P. Narayana. Key asset of Narayana Educational Group, funded through student fees and group revenues.",
     "YearEstablished": "2000",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "27",
@@ -300,7 +324,9 @@
     "FundingSource": "Tuition fees, Muslim minority trust funds, hospital operational income.",
     "SummaryReport": "Established in 2016 near Vijayawada as a Muslim minority medical college operated by Nimra Educational Society. Self-funded.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "28",
@@ -326,7 +352,9 @@
     "FundingSource": "NRI promoter capital, tuition fees, hospital revenue, ANITSE educational group funds.",
     "SummaryReport": "Founded in 2012 by Anil Neerukonda Educational Society (ANES) established by non-resident Indian entrepreneurs. Self-financing trust model.",
     "YearEstablished": "2012",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "29",
@@ -352,7 +380,9 @@
     "FundingSource": "NRI physician syndicate equity, tuition fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2003 at Chinakani, Guntur by a group of NRI doctors under Academy of Regional Medical Sciences (ARMS). Funded by NRI capital and self-financing fee model.",
     "YearEstablished": "2003",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "30",
@@ -378,7 +408,9 @@
     "FundingSource": "PES Educational Trust reserves, student tuition fees, hospital treatment fees.",
     "SummaryReport": "Established in 2001 in Kuppam by PES Trust founder Dr. M.R. Doreswamy (BJP former MLC). Self-funded through PES educational network resources.",
     "YearEstablished": "2001",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "36",
@@ -399,7 +431,9 @@
     "FundingSource": "RGM Group industrial revenue, tuition fees, hospital operational income.",
     "SummaryReport": "Founded in 2005 near Nandyal by industrialist Dr. M. Santhiramudu under Santhiram Educational Society. Self-financed.",
     "YearEstablished": "2005",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "37",
@@ -420,7 +454,9 @@
     "FundingSource": "Trust capital, student fees, hospital revenue.",
     "SummaryReport": "Private medical college established in Chittoor district under Sri Balaji Educational Trust. Self-funded.",
     "YearEstablished": "2022",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "YSRCP"
   },
   {
     "SlNo": "39",
@@ -441,7 +477,9 @@
     "FundingSource": "Tuition fees, hospital earnings, promoter investments.",
     "SummaryReport": "Established in 2014 in Kurnool by Viswabharathi Educational Society. Financed through student fee structure and hospital clinical services.",
     "YearEstablished": "2014",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP"
   },
   {
     "SlNo": "55",
@@ -462,7 +500,9 @@
     "FundingSource": "Tuition fees, hospital operational income.",
     "SummaryReport": "Established at Chhitori, Chhata, Patna by Himalaya Educational Trust. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "JDU (NDA/Mahagathbandhan)"
   },
   {
     "SlNo": "57",
@@ -483,7 +523,9 @@
     "FundingSource": "Sikh shrine trust endowments, student tuition fees, Lions Seva Kendra hospital earnings.",
     "SummaryReport": "Established in 1990 in Kishanganj as Bihar's premier Sikh religious minority medical college. Managed under Sikh shrine board trust. Self-funded.",
     "YearEstablished": "1990",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "Janata Dal / Samajwadi Janata Party",
+    "StateRulingPartyAtEstablishment": "Janata Dal"
   },
   {
     "SlNo": "60",
@@ -504,7 +546,9 @@
     "FundingSource": "Al-Karim Trust reserves, university tuition fees, hospital operational income.",
     "SummaryReport": "Established in 1987 in Katihar as a premier Muslim minority medical college by former RJD MP Ahmad Ashfaque Karim. Constituent of Al-Karim Private University. Self-financed.",
     "YearEstablished": "1987",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "66",
@@ -525,7 +569,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established at Turki, Muzaffarpur by Sri Jageshwari Memorial Trust. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "JDU (NDA/Mahagathbandhan)"
   },
   {
     "SlNo": "67",
@@ -546,7 +592,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in Saharsa/Rohtas region by Shree Narayan Educational Trust. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "JDU (NDA/Mahagathbandhan)"
   },
   {
     "SlNo": "70",
@@ -567,7 +615,9 @@
     "FundingSource": "Group capital, student tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2020 at Bihta, Patna by Sitwanto Devi Mahila Kalyan Sansthan. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "JDU (NDA/Mahagathbandhan)"
   },
   {
     "SlNo": "71",
@@ -588,7 +638,9 @@
     "FundingSource": "Tuition fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2012 in Saharsa by Lord Buddha Koshi Trust. Self-financed.",
     "YearEstablished": "2019",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "JDU (NDA/Mahagathbandhan)"
   },
   {
     "SlNo": "72",
@@ -609,7 +661,9 @@
     "FundingSource": "Falah-e-Aam Trust funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2019 in Madhubani as a Muslim minority medical college by RJD MP Dr. Faiyaz Ahmad. Self-financed.",
     "YearEstablished": "2019",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "JDU (NDA/Mahagathbandhan)"
   },
   {
     "SlNo": "76",
@@ -630,7 +684,9 @@
     "FundingSource": "GNS Private University tuition fees, super-specialty hospital clinical earnings.",
     "SummaryReport": "Established in 2008 at Jamuhar, Sasaram. Flagship constituent of Gopal Narayan Singh Private University founded by BJP leader Gopal Narayan Singh. Self-financed.",
     "YearEstablished": "2008",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "JDU (NDA/Mahagathbandhan)"
   },
   {
     "SlNo": "78",
@@ -651,7 +707,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in Bhilai under Shri Gangajali Education Society. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "79",
@@ -672,7 +730,9 @@
     "FundingSource": "Ashram trust endowments, student tuition fees, hospital clinical income.",
     "SummaryReport": "Established at Naya Raipur (Atal Nagar) by Shri Rawatpura Sarkar Lok Kalyan Trust. Self-funded philanthropic trust.",
     "YearEstablished": "2024",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "85",
@@ -693,7 +753,9 @@
     "FundingSource": "Shri Balaji Hospital corporate earnings, student tuition fees.",
     "SummaryReport": "Established in 2021 at Mowa, Raipur by Dr. Devendra Naik. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "86",
@@ -714,7 +776,9 @@
     "FundingSource": "Tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2012 at Bhansoj, Raipur by Lord Buddha Educational Society. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "87",
@@ -740,7 +804,9 @@
     "FundingSource": "SGES Group funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2013 at Junwani, Bhilai by Shri Gangajali Education Society. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "96",
@@ -766,7 +832,9 @@
     "FundingSource": "Army Welfare Education Society welfare funds, subsidized tuition fees (for wards of Army personnel/veterans), Base Hospital clinical support.",
     "SummaryReport": "Premier medical college established in 2008 at Delhi Cantt by Army Welfare Education Society (AWES) for children of serving & retired Indian Army personnel. Non-profit defense welfare institution.",
     "YearEstablished": "2008",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "104",
@@ -792,7 +860,9 @@
     "FundingSource": "Hamdard National Foundation CSR & business profits, university tuition fees, Hakeem Abdul Hameed Centenary Hospital earnings.",
     "SummaryReport": "Established in 2012 at Hamdard Nagar, New Delhi as constituent medical college of Jamia Hamdard Deemed University. Self-funded philanthropic minority trust.",
     "YearEstablished": "2012",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "106",
@@ -813,7 +883,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established at Kadi, Mehsana district under Bhagyoday Charitable Trust. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "107",
@@ -834,7 +906,9 @@
     "FundingSource": "SAL Hospital Group capital, tuition fees, clinical hospital income.",
     "SummaryReport": "Established at Bhadaj, Ahmedabad by Dr. Rajendra Shah under Shah Education Trust. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "108",
@@ -855,7 +929,9 @@
     "FundingSource": "Gurukul trust donations, university tuition fees, hospital revenues.",
     "SummaryReport": "Constituent medical college of Swaminarayan University at Saij, Kalol, Gandhinagar, operated by Swaminarayan Gurukul Trust. Self-funded.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "114",
@@ -876,7 +952,9 @@
     "FundingSource": "Deemed university tuition fees, Dhiraj General Hospital clinical income.",
     "SummaryReport": "Established in 2002 at Piparia, Vadodara. Flagship constituent of Sumandeep Vidyapeeth Deemed University. Self-financed.",
     "YearEstablished": "2002",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "115",
@@ -897,7 +975,9 @@
     "FundingSource": "Vardhman Trust endowments, student tuition fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2000 in Dudhrej, Surendranagar by industrialist C. U. Shah. Self-funded trust medical college.",
     "YearEstablished": "2000",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "120",
@@ -918,7 +998,9 @@
     "FundingSource": "Dr. Kiran C. Patel philanthropic endowment (USD multi-million contribution), tuition fees, hospital revenue.",
     "SummaryReport": "Established in 2020 in Bharuch through monumental endowment by Indian-American billionaire cardiologist Dr. Kiran C. Patel. Self-funded philanthropic trust.",
     "YearEstablished": "2020",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "121",
@@ -939,7 +1021,9 @@
     "FundingSource": "Gajera Trust diamond business capital, tuition fees, Civil Hospital PPP operational income.",
     "SummaryReport": "Established in 2019 in Amreli by diamond tycoon Vasant Gajera under Gajera Trust in PPP with Gujarat Govt. Self-financed.",
     "YearEstablished": "2019",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "122",
@@ -960,7 +1044,9 @@
     "FundingSource": "University tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2019 in Visnagar, Mehsana. Constituent of Sankalchand Patel University. Self-financed.",
     "YearEstablished": "2019",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "123",
@@ -986,7 +1072,9 @@
     "FundingSource": "DDU University tuition fees, hospital operational income.",
     "SummaryReport": "Constituent medical faculty of Dharmsinh Desai University in Nadiad, established under DDU Trust. Self-financed.",
     "YearEstablished": "2019",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "124",
@@ -1007,7 +1095,9 @@
     "FundingSource": "Surat diamond industry philanthropic donations, tuition fees, Kiran Super-specialty Hospital earnings.",
     "SummaryReport": "Established in Surat under Samast Patidar Samaj trust led by diamond industrialist Mathur Savani. Self-funded philanthropic trust.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "125",
@@ -1028,7 +1118,9 @@
     "FundingSource": "Zydus Lifesciences CSR & corporate capital, Gujarat Govt PPP subsidy, student tuition fees.",
     "SummaryReport": "Established in 2018 at Dahod under PPP policy between Gujarat Govt and Zydus Lifesciences (Pankaj Patel). Self-funded corporate PPP trust.",
     "YearEstablished": "2018",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "126",
@@ -1049,7 +1141,9 @@
     "FundingSource": "Banas Dairy cooperative surplus reserves, student tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2018 in Palanpur by Banas Dairy cooperative trust, headed by Assembly Speaker Shankar Chaudhary. Self-funded cooperative trust.",
     "YearEstablished": "2018",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "128",
@@ -1070,7 +1164,9 @@
     "FundingSource": "Tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2017 at Chandkheda, Ahmedabad by Saraswati Educational Trust. Self-financed.",
     "YearEstablished": "2017",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "129",
@@ -1091,7 +1187,9 @@
     "FundingSource": "Parul University tuition fees, 750-bed Parul Sevashram Hospital revenues.",
     "SummaryReport": "Established in 2016 at Limda, Vadodara as constituent college of Parul Private University. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "135",
@@ -1117,7 +1215,9 @@
     "FundingSource": "GCS Trust endowments, philanthropic donations, student tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2011 in Naroda, Ahmedabad by historic Gujarat Cancer Society (est. 1961), chaired ex-officio by the Chief Minister of Gujarat. Self-funded philanthropic trust.",
     "YearEstablished": "2011",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "138",
@@ -1143,7 +1243,9 @@
     "FundingSource": "Adani Group corporate funding & CSR capital, GK General Hospital PPP clinical earnings, student tuition fees.",
     "SummaryReport": "Established in 2009 in Bhuj, Kutch as India's first high-profile PPP medical college between Adani Education Foundation (Gautam Adani) and Govt of Gujarat. Self-financed PPP trust.",
     "YearEstablished": "2009",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "142",
@@ -1164,7 +1266,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Medical college at Kalol, Gandhinagar operated by Ananya Educational Trust. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "146",
@@ -1190,7 +1294,9 @@
     "FundingSource": "Charutar Arogya Mandal trust endowments, student tuition fees, Shree Krishna Hospital clinical earnings.",
     "SummaryReport": "Established in 1987 in Karamsad, Anand by Union Minister H. M. Patel under Charutar Arogya Mandal. Flagship constituent of Bhaikaka University. Self-funded philanthropic trust.",
     "YearEstablished": "1987",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "147",
@@ -1211,7 +1317,9 @@
     "FundingSource": "MMU Deemed University fees, hospital clinical earnings.",
     "SummaryReport": "Constituent medical college of MMU Deemed University at Sadopur, Ambala. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "148",
@@ -1232,7 +1340,9 @@
     "FundingSource": "MAM Trust endowments, global philanthropic contributions, university tuition fees, 2600-bed Amrita Super-specialty Hospital earnings.",
     "SummaryReport": "Inaugurated in 2022 in Faridabad by PM Narendra Modi as Asia's largest private super-specialty hospital and medical research campus. Self-funded spiritual philanthropic trust.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "149",
@@ -1258,7 +1368,9 @@
     "FundingSource": "Jindal Industrial Group CSR capital, Haryana State Govt grant-in-aid (50%), student tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 1988 at Agroha, Hisar by O.P. Jindal. Unique public-private trust model supported by Jindal Group and Haryana State Government.",
     "YearEstablished": "2002",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INLD"
   },
   {
     "SlNo": "150",
@@ -1284,7 +1396,9 @@
     "FundingSource": "SGT Private University tuition fees, 800-bed hospital operational income.",
     "SummaryReport": "Established in 2010 at Budhera, Gurugram as constituent medical college of SGT University. Self-financed.",
     "YearEstablished": "2010",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "152",
@@ -1305,7 +1419,9 @@
     "FundingSource": "MMU Deemed University fees, 1100-bed MM Hospital clinical income.",
     "SummaryReport": "Established in 2003 at Mullana, Ambala. Flagship medical college of MMU Deemed University. Self-financed.",
     "YearEstablished": "2003",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INLD"
   },
   {
     "SlNo": "153",
@@ -1326,7 +1442,9 @@
     "FundingSource": "Al-Falah University tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2019 at Dhoj, Faridabad as constituent medical college of Al-Falah Muslim Minority University. Self-financed.",
     "YearEstablished": "2019",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "155",
@@ -1347,7 +1465,9 @@
     "FundingSource": "Adesh Group funds, tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2017 at Mohri, Shahabad, Kurukshetra by Adesh Welfare Society. Self-financed.",
     "YearEstablished": "2017",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "156",
@@ -1368,7 +1488,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2016 at Israna, Panipat by Shanti Devi Charitable Trust. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "157",
@@ -1389,7 +1511,9 @@
     "FundingSource": "Tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2016 at Gurawar, Jhajjar by Amma Chandravati Educational Trust. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "168",
@@ -1410,7 +1534,9 @@
     "FundingSource": "MMU Solan tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2013 at Kumarhatti, Solan as Himachal Pradesh's first private medical college under MMU Trust. Self-financed.",
     "YearEstablished": "2013",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "181",
@@ -1431,7 +1557,9 @@
     "FundingSource": "Bada Akhara Udasin trust endowments, student tuition fees, ASCOMS hospital clinical earnings.",
     "SummaryReport": "Established in 1996 at Sidhra, Jammu by Shri Chander Chinar Bada Akhara Udasin Trust. J&K's pioneer private medical college. Self-funded.",
     "YearEstablished": "1995",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "President's Rule"
   },
   {
     "SlNo": "186",
@@ -1452,7 +1580,9 @@
     "FundingSource": "RC University tuition fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2021 in Bishrampur, Palamu by former Jharkhand Health Minister Ramchandra Chandravansi. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "JMM (UPA)"
   },
   {
     "SlNo": "187",
@@ -1478,7 +1608,9 @@
     "FundingSource": "Tata Steel institutional infrastructure support, MAHE tuition fees, Tata Main Hospital (TMH) clinical facilities.",
     "SummaryReport": "Established in 2020 at Baridih, Jamshedpur as a premier consortium between MAHE Deemed University and Tata Steel. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "JMM (UPA)"
   },
   {
     "SlNo": "191",
@@ -1499,7 +1631,9 @@
     "FundingSource": "Math trust reserves, university student tuition fees, super-specialty hospital service revenues.",
     "SummaryReport": "Constituent medical college of Adichunchanagiri University, managed by Sri Adichunchanagiri Shikshana Trust under the spiritual leadership of Sri Sri Sri Dr. Nirmalanandanatha Swamiji. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "192",
@@ -1525,7 +1659,9 @@
     "FundingSource": "PES University fee revenue, hospital revenues, promoter trust capital.",
     "SummaryReport": "Constituent medical college of PES Private University, established by former BJP MLC Dr. M.R. Doreswamy. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "193",
@@ -1546,7 +1682,9 @@
     "FundingSource": "Promoter trust funds, student tuition fees, hospital clinical earnings.",
     "SummaryReport": "Medical college at Badagandi, Bagalkot district, founded by former Congress Minister & MLC S. R. Patil under his charitable trust. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "195",
@@ -1567,7 +1705,9 @@
     "FundingSource": "Moogambigai Trust reserves, tuition fees, hospital patient revenues.",
     "SummaryReport": "Established at Channapatna under Moogambigai Trust headed by political leader Dr. A. C. Shanmugam. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "196",
@@ -1588,7 +1728,9 @@
     "FundingSource": "Sufi shrine trust endowments, university tuition fees, hospital earnings.",
     "SummaryReport": "Constituent medical college of Khaja Bandanawaz University, established by Khaja Education Society led by Dr. Syed Shah Khusro Hussaini. Self-financed.",
     "YearEstablished": "2000",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "197",
@@ -1614,7 +1756,9 @@
     "FundingSource": "CBCI institutional endowment, student tuition fees, clinical super-specialty hospital revenues, research grants.",
     "SummaryReport": "Established in 1963 by CBCI as a premier non-profit Christian minority medical college in Bangalore. Self-funded through institutional reserves and hospital earnings.",
     "YearEstablished": "1963",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "198",
@@ -1635,7 +1779,9 @@
     "FundingSource": "AJ Group enterprise capital, tuition fees, super-specialty hospital earnings.",
     "SummaryReport": "Founded in 2002 by Dr. A. J. Shetty under Laxmi Memorial Education Trust. Self-financed through business group capital and college fees.",
     "YearEstablished": "2002",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "199",
@@ -1656,7 +1802,9 @@
     "FundingSource": "Moogambigai Trust reserves, tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2005 on Mysore Road, Bangalore by Dr. A. C. Shanmugam. Self-financed trust institution.",
     "YearEstablished": "2005",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "200",
@@ -1677,7 +1825,9 @@
     "FundingSource": "Yenepoya Group enterprise capital, deemed university fees, hospital services.",
     "SummaryReport": "Established in 1999 as a constituent college of Yenepoya Deemed University, founded by Yenepoya Abdulla Kunhi under Islamic Academy of Education. Self-financed.",
     "YearEstablished": "1999",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "Janata Dal"
   },
   {
     "SlNo": "201",
@@ -1703,7 +1853,9 @@
     "FundingSource": "Al-Ameen Society reserves, tuition fees, hospital revenue.",
     "SummaryReport": "Established in 1984 in Vijayapura (Bijapur) by Dr. Mumtaz Ahmed Khan under Al-Ameen Educational Society. Self-financed minority trust.",
     "YearEstablished": "1984",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "Janata Party"
   },
   {
     "SlNo": "203",
@@ -1729,7 +1881,9 @@
     "FundingSource": "Srinivasa Trust capital, tuition fees, 1600-bed super-specialty hospital revenue.",
     "SummaryReport": "Established in 2000 in Whitefield, Bangalore by late MP D. K. Audikesavulu under Srinivasa Trust. Self-financed super-specialty medical institute.",
     "YearEstablished": "2002",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "204",
@@ -1755,7 +1909,9 @@
     "FundingSource": "Bapuji Educational Association funds, tuition fees, hospital revenue.",
     "SummaryReport": "Established in 2002 by BEA led by veteran Congress Minister Shamanur Shivashankarappa. Self-financed Lingayat educational trust.",
     "YearEstablished": "2006",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "JD(S) - BJP"
   },
   {
     "SlNo": "206",
@@ -1781,7 +1937,9 @@
     "FundingSource": "Ramaiah Group institutional funds, student tuition fees, 1000+ bed hospital revenues.",
     "SummaryReport": "Established in 1979 by industrialist M. S. Ramaiah. Governed by Gokula Education Foundation headed by former Congress Minister M. R. Seetharam. Self-financed.",
     "YearEstablished": "1979",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "Janata Party",
+    "StateRulingPartyAtEstablishment": "President's Rule / INC"
   },
   {
     "SlNo": "208",
@@ -1807,7 +1965,9 @@
     "FundingSource": "SSES trust reserves, deemed university tuition fees, teaching hospital income.",
     "SummaryReport": "Established in 1988 in Tumkur by SSES, founded by H.M. Gangadharaiah and headed by Home Minister Dr. G. Parameshwara. Self-financed.",
     "YearEstablished": "1988",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "Janata Party"
   },
   {
     "SlNo": "209",
@@ -1828,7 +1988,9 @@
     "FundingSource": "BVV Sangha community educational trust funds, tuition fees, HSK Hospital revenues.",
     "SummaryReport": "Established in 2002 by BVV Sangha (historic Lingayat educational society est. 1906), led by former BJP MLA Dr. Veeranna Charantimath. Self-financed.",
     "YearEstablished": "2002",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "210",
@@ -1854,7 +2016,9 @@
     "FundingSource": "MVJ Group funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2001 at Hoskote, Bangalore Rural by Venkatesha Education Trust. Self-financed.",
     "YearEstablished": "1997",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "United Front",
+    "StateRulingPartyAtEstablishment": "Janata Dal"
   },
   {
     "SlNo": "211",
@@ -1880,7 +2044,9 @@
     "FundingSource": "Nitte Trust reserves, deemed university fees, super-specialty hospital earnings.",
     "SummaryReport": "Constituent medical college of Nitte Deemed University, established in 1999 by N. Vinaya Hegde under Nitte Education Trust. Self-financed.",
     "YearEstablished": "1999",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "Janata Dal"
   },
   {
     "SlNo": "215",
@@ -1901,7 +2067,9 @@
     "FundingSource": "Ananda Trust funds, student tuition fees, hospital operational income.",
     "SummaryReport": "Established in 1981 at Kadugondanahalli, Bangalore by Ananda Social & Educational Trust led by late Union Minister B. R. Jalappa. Self-financed.",
     "YearEstablished": "1980",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "216",
@@ -1927,7 +2095,9 @@
     "FundingSource": "HKE Society trust reserves, tuition fees, Basaveshwar Hospital earnings.",
     "SummaryReport": "Established in 1963 as one of Karnataka's pioneer private medical colleges by HKE Society in Kalaburagi. Self-financed educational trust.",
     "YearEstablished": "1963",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "220",
@@ -1948,7 +2118,9 @@
     "FundingSource": "JSS Mahavidyapeetha institutional endowments, university fees, 1800-bed super-specialty hospital revenues.",
     "SummaryReport": "Established in 1984 in Mysuru under JSS Mahavidyapeetha (Suttur Math). Constituent college of JSS AHER Deemed University. Self-funded through institutional trust.",
     "YearEstablished": "1984",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "Janata Party"
   },
   {
     "SlNo": "221",
@@ -1969,7 +2141,9 @@
     "FundingSource": "Vokkaligara Sangha community trust funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 1980 by Rajya Vokkaligara Sangha in Bangalore. Governed by elected board of Vokkaliga community leaders. Self-financed.",
     "YearEstablished": "1980",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "222",
@@ -1990,7 +2164,9 @@
     "FundingSource": "BEA trust funds, tuition fees, Bapuji Hospital & Chigateri Hospital operations.",
     "SummaryReport": "Established in 1965 in Davangere by Bapuji Educational Association led by Shamanur Shivashankarappa. Premier self-financed Lingayat trust college.",
     "YearEstablished": "1965",
-    "AnnualIntake": "245"
+    "AnnualIntake": "245",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "223",
@@ -2021,7 +2197,9 @@
     "FundingSource": "MAHE tuition fees, MEMG group investments, Kasturba Hospital clinical operations, international student quotas.",
     "SummaryReport": "Established in 1953 by Dr. T. M. A. Pai as India's first self-financing private medical college. Constituent college of MAHE Deemed University. Self-funded.",
     "YearEstablished": "1953",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "224",
@@ -2047,7 +2225,9 @@
     "FundingSource": "MAHE tuition fees, hospital clinical earnings.",
     "SummaryReport": "Established in 1955 as KMC Mangalore under MAHE Deemed University. Sister campus of KMC Manipal. Self-financed.",
     "YearEstablished": "1955",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "225",
@@ -2068,7 +2248,9 @@
     "FundingSource": "Deemed university tuition fees, RL Jalappa Hospital earnings.",
     "SummaryReport": "Established in 1986 at Tamaka, Kolar by Sri Devaraj Urs Educational Trust founded by Union Minister R. L. Jalappa. Deemed university status. Self-financed.",
     "YearEstablished": "1986",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "Janata Party"
   },
   {
     "SlNo": "226",
@@ -2094,7 +2276,9 @@
     "FundingSource": "Tuition fees, hospital clinical revenues.",
     "SummaryReport": "Established in 2002 at Sullia by Academy of Liberal Education. Self-financed.",
     "YearEstablished": "1999",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "Janata Dal"
   },
   {
     "SlNo": "227",
@@ -2115,7 +2299,9 @@
     "FundingSource": "KLE Society institutional reserves, deemed university tuition fees, KLES Prabhakar Kore Hospital revenues.",
     "SummaryReport": "Established in 1963 in Belagavi by KLE Society (est. 1916). Led by former BJP MP Dr. Prabhakar Kore. Constituent college of KAHER Deemed University. Self-financed.",
     "YearEstablished": "1963",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "228",
@@ -2136,7 +2322,9 @@
     "FundingSource": "Trust reserves, tuition fees, hospital operational income.",
     "SummaryReport": "Established in 1986 at BG Nagara, Bellur by Sri Adichunchanagiri Shikshana Trust under late Sri Balagangadharanatha Swamiji. Self-financed.",
     "YearEstablished": "1985",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "Janata Party"
   },
   {
     "SlNo": "229",
@@ -2162,7 +2350,9 @@
     "FundingSource": "Diocese trust endowments, tuition fees, 1250-bed super-specialty hospital revenues.",
     "SummaryReport": "Established as a medical college in 1999 (charitable institution founded 1880) by the Catholic Diocese of Mangalore. Self-funded Christian minority trust.",
     "YearEstablished": "1999",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "Janata Dal"
   },
   {
     "SlNo": "232",
@@ -2183,7 +2373,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Medical college in Mangaluru operated by G.R. Educational Trust. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "233",
@@ -2204,7 +2396,9 @@
     "FundingSource": "KLE Society trust funds, tuition fees, hospital revenue.",
     "SummaryReport": "Established at Hubballi under KLE Society in collaboration with historic Moorusavirmath Trust. Constituent of KAHER Deemed University. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "234",
@@ -2225,7 +2419,9 @@
     "FundingSource": "100% Philanthropic donations & global charity trusts. Medical education and hospital treatment are provided COMPLETELY FREE OF COST.",
     "SummaryReport": "India's first completely FREE private medical college, inaugurated in 2023 at Sathya Sai Grama, Muddenahalli by PM Narendra Modi. Funded 100% through philanthropic global donations.",
     "YearEstablished": "2023",
-    "AnnualIntake": "50"
+    "AnnualIntake": "50",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "235",
@@ -2251,7 +2447,9 @@
     "FundingSource": "Dayananda Sagar University fees, MGVP trust reserves, hospital revenue.",
     "SummaryReport": "Constituent medical college of Dayananda Sagar University at Harohalli, founded by former BJP MLA Dr. D. Hemachandra Sagar under MGVP Trust. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "237",
@@ -2272,7 +2470,9 @@
     "FundingSource": "SSES trust reserves, tuition fees, hospital clinical income.",
     "SummaryReport": "Established at T. Begur, Nelamangala (Bengaluru Rural) under SSES by Home Minister Dr. G. Parameshwara. Constituent of SSAHE Deemed University. Self-financed.",
     "YearEstablished": "2019",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC-JD(S) / BJP"
   },
   {
     "SlNo": "238",
@@ -2298,7 +2498,9 @@
     "FundingSource": "East Point Group funds, student tuition fees, hospital revenues.",
     "SummaryReport": "Established in 2017 at Bidarahalli, Bangalore by M.G. Charitable Trust. Self-financed.",
     "YearEstablished": "2017",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "239",
@@ -2319,7 +2521,9 @@
     "FundingSource": "Tuition fees, hospital operational income.",
     "SummaryReport": "Established at Kolar Gold Fields (KGF) by Sambhram Educational Trust. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "0"
+    "AnnualIntake": "0",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "240",
@@ -2340,7 +2544,9 @@
     "FundingSource": "Tuition fees, hospital earnings, promoter capital.",
     "SummaryReport": "Established in 2016 near Devanahalli, Bangalore by Akash Education Trust. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "241",
@@ -2361,7 +2567,9 @@
     "FundingSource": "Kanachur Group revenues, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2016 at Natekal, Mangalore by Kanachur Monu under Kanachur Islamic Education Trust. Self-financed Muslim minority college.",
     "YearEstablished": "2016",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "248",
@@ -2382,7 +2590,9 @@
     "FundingSource": "Oxford Educational Group institutional fees, hospital revenue.",
     "SummaryReport": "Established in 2014 at Attibele, Bangalore by Children's Education Society. Self-financed.",
     "YearEstablished": "2014",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "250",
@@ -2403,7 +2613,9 @@
     "FundingSource": "Shridevi Group funds, tuition fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2013 in Tumkur by former MLC Dr. M. R. Hulinaykar under Sri Shridevi Charitable Trust. Self-financed.",
     "YearEstablished": "2013",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "251",
@@ -2424,7 +2636,9 @@
     "FundingSource": "Math trust reserves, tuition fees, BGS Global Hospital clinical earnings.",
     "SummaryReport": "Established in 2013 at Kengeri, Bangalore by Sri Adichunchanagiri Shikshana Trust. Self-financed trust medical college.",
     "YearEstablished": "2013",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "252",
@@ -2445,7 +2659,9 @@
     "FundingSource": "Tuition fees, hospital operational income, promoter equity.",
     "SummaryReport": "Established in 2012 in Shivamogga by Tantara Educational Trust. Self-financed.",
     "YearEstablished": "2012",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "254",
@@ -2466,7 +2682,9 @@
     "FundingSource": "Srinivas Group funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2011 at Mukka, Mangalore by A. Shama Rao Foundation. Self-financed.",
     "YearEstablished": "2011",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "255",
@@ -2492,7 +2710,9 @@
     "FundingSource": "Sapthagiri Group enterprise funds, tuition fees, hospital revenues.",
     "SummaryReport": "Established in 2011 on Hesaraghatta Main Road, Bangalore by Sri Srinivasa Educational & Charitable Trust. Self-financed.",
     "YearEstablished": "2011",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "256",
@@ -2513,7 +2733,9 @@
     "FundingSource": "SDM Trust reserves, university tuition fees, SDM Hospital earnings.",
     "SummaryReport": "Established in 2003 in Dharwad by SDM Educational Society led by Rajya Sabha MP Dr. D. Veerendra Heggade. Constituent of SDM University. Self-funded philanthropic trust.",
     "YearEstablished": "2003",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "257",
@@ -2534,7 +2756,9 @@
     "FundingSource": "Navodaya Trust funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2001 in Raichur by S. R. Reddy under Navodaya Education Trust. Self-financed.",
     "YearEstablished": "2002",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "258",
@@ -2555,7 +2779,9 @@
     "FundingSource": "SJM Math trust reserves, student tuition fees, hospital treatment fees.",
     "SummaryReport": "Established in 2001 in Chitradurga by SJM Vidyapeetha (Sri Murugha Math). Self-financed Lingayat community educational trust.",
     "YearEstablished": "1999",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "Janata Dal"
   },
   {
     "SlNo": "259",
@@ -2581,7 +2807,9 @@
     "FundingSource": "Siddaganga Math trust reserves, tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2022 in Tumakuru under Sri Siddaganga Education Society, founded by centenarian seer Dr. Shivakumara Swamiji. Self-financed philanthropic math trust.",
     "YearEstablished": "2022",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "263",
@@ -2607,7 +2835,9 @@
     "FundingSource": "BLDE Association trust reserves, deemed university fees, Shri B.M. Patil Hospital clinical earnings.",
     "SummaryReport": "Established in 1986 in Vijayapura by BLDE Association (est. 1910). Constituent college of BLDE Deemed University, headed by Cabinet Minister M. B. Patil. Self-financed.",
     "YearEstablished": "1986",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "Janata Party"
   },
   {
     "SlNo": "264",
@@ -2628,7 +2858,9 @@
     "FundingSource": "Trust reserves, student tuition fees, hospital earnings.",
     "SummaryReport": "Medical college established in Palakkad under V. N. Public Health and Educational Trust. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (LDF)"
   },
   {
     "SlNo": "265",
@@ -2654,7 +2886,9 @@
     "FundingSource": "Archdiocese trust endowments, tuition fees, 1600-bed super-specialty hospital revenues.",
     "SummaryReport": "Established in 2003 (hospital est. 1951) by the Catholic Archdiocese of Trichur. Non-profit Christian minority medical college. Self-funded.",
     "YearEstablished": "2002",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC (UDF)"
   },
   {
     "SlNo": "266",
@@ -2675,7 +2909,9 @@
     "FundingSource": "CMI congregation funds, tuition fees, cancer hospital & super-specialty revenues.",
     "SummaryReport": "Established in 2002 at Amalanagar, Thrissur by Carmelites of Mary Immaculate (CMI) Catholic order. Non-profit Christian minority college. Self-funded.",
     "YearEstablished": "2002",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC (UDF)"
   },
   {
     "SlNo": "270",
@@ -2696,7 +2932,9 @@
     "FundingSource": "MES institutional reserves, tuition fees, super-specialty hospital revenues.",
     "SummaryReport": "Established in 2002 at Perinthalmanna, Malappuram by Muslim Educational Society led by Dr. P. A. Fazal Ghafoor. Self-financed Muslim minority college.",
     "YearEstablished": "2002",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC (UDF)"
   },
   {
     "SlNo": "272",
@@ -2717,7 +2955,9 @@
     "FundingSource": "Gokulam Group business revenues, tuition fees, 1000-bed hospital clinical income.",
     "SummaryReport": "Established in 2004 at Venjaramoodu, Trivandrum by industrialist Gokulam Gopalan. Self-financed.",
     "YearEstablished": "2005",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC (UDF)"
   },
   {
     "SlNo": "273",
@@ -2738,7 +2978,9 @@
     "FundingSource": "Tuition fees, Medicity hospital clinical income.",
     "SummaryReport": "Established in 2008 at Umayanalloor, Kollam by Quilon Medical Trust. Self-financed Muslim minority institution.",
     "YearEstablished": "2009",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (LDF)"
   },
   {
     "SlNo": "274",
@@ -2759,7 +3001,9 @@
     "FundingSource": "Society trust reserves, tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2009 at Chalakka, Ernakulam by Sree Narayana Health Care Society. Self-financed.",
     "YearEstablished": "2009",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (LDF)"
   },
   {
     "SlNo": "276",
@@ -2780,7 +3024,9 @@
     "FundingSource": "Group reserves, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2008 at Meeyannoor, Kollam by Podikunju Musaliar Memorial Trust. Self-financed.",
     "YearEstablished": "2008",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (LDF)"
   },
   {
     "SlNo": "278",
@@ -2801,7 +3047,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2006 at Anjarakandy, Kannur by Prestige Educational Trust. Self-financed.",
     "YearEstablished": "2006",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (LDF)"
   },
   {
     "SlNo": "279",
@@ -2822,7 +3070,9 @@
     "FundingSource": "Trust funds, tuition fees, hospital revenue.",
     "SummaryReport": "Established in 2006 at Vilayodi, Chittur, Palakkad by Safe Development Alms Trust. Self-financed.",
     "YearEstablished": "2006",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (LDF)"
   },
   {
     "SlNo": "280",
@@ -2843,7 +3093,9 @@
     "FundingSource": "Moogambigai Trust reserves, tuition fees, SUT Hospital clinical income.",
     "SummaryReport": "Established in 2006 at Vattampara, Trivandrum; managed by Moogambigai Trust (Dr. A. C. Shanmugam). Self-financed.",
     "YearEstablished": "2006",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (LDF)"
   },
   {
     "SlNo": "282",
@@ -2864,7 +3116,9 @@
     "FundingSource": "Mata Amritanandamayi Math endowments, global humanitarian donations, student fees, 1300-bed super-specialty hospital revenues.",
     "SummaryReport": "Established in 1998 in Kochi as constituent college of Amrita Vishwa Vidyapeetham. World-class non-profit spiritual trust medical institute. Self-funded.",
     "YearEstablished": "2000",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (LDF)"
   },
   {
     "SlNo": "284",
@@ -2885,7 +3139,9 @@
     "FundingSource": "Church trust reserves, tuition fees, super-specialty hospital earnings.",
     "SummaryReport": "Established in 2014 in Thiruvalla by Believers Eastern Church. Self-funded Christian minority trust.",
     "YearEstablished": "2016",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (LDF)"
   },
   {
     "SlNo": "286",
@@ -2906,7 +3162,9 @@
     "FundingSource": "HRD Trust funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2014 at Perumpillichira, Thodupuzha, Idukki by HRD Trust. Self-financed.",
     "YearEstablished": "2014",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC (UDF)"
   },
   {
     "SlNo": "287",
@@ -2932,7 +3190,9 @@
     "FundingSource": "Nehru Group funds, tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2014 at Vaniamkulam, Ottapalam, Palakkad by Nehru College Educational and Charitable Trust. Self-financed.",
     "YearEstablished": "2014",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC (UDF)"
   },
   {
     "SlNo": "288",
@@ -2953,7 +3213,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2014 at Adoor, Pathanamthitta by Charitable Educational Financial Society. Self-financed.",
     "YearEstablished": "2014",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC (UDF)"
   },
   {
     "SlNo": "289",
@@ -2974,7 +3236,9 @@
     "FundingSource": "Aster DM Healthcare Foundation capital, student tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2013 at Naseera Nagar, Meppadi, Wayanad by Dr. Azad Moopen. High-quality rural medical institute self-financed through Aster DM Healthcare foundation.",
     "YearEstablished": "2013",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC (UDF)"
   },
   {
     "SlNo": "291",
@@ -2995,7 +3259,9 @@
     "FundingSource": "Tuition fees, hospital earnings, promoter capital.",
     "SummaryReport": "Established in 2010 at Modakkallur, Kozhikode by Sree Anjaneya Medical Trust. Self-financed.",
     "YearEstablished": "2010",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (LDF)"
   },
   {
     "SlNo": "292",
@@ -3016,7 +3282,9 @@
     "FundingSource": "KMCT Group funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2008 at Manassery, Mukkam, Kozhikode by Dr. K. Moidu under KMCT. Self-financed Muslim minority college.",
     "YearEstablished": "2008",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (LDF)"
   },
   {
     "SlNo": "293",
@@ -3042,7 +3310,9 @@
     "FundingSource": "CSI Diocese trust funds, tuition fees, hospital clinical revenues.",
     "SummaryReport": "Established in 2002 at Karakonam, Trivandrum by CSI South Kerala Diocese. Christian minority trust medical college. Self-funded.",
     "YearEstablished": "2001",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC (UDF)"
   },
   {
     "SlNo": "294",
@@ -3063,7 +3333,9 @@
     "FundingSource": "Orthodox Church trust endowments, tuition fees, 1100-bed super-specialty hospital earnings.",
     "SummaryReport": "Established in 2002 at Kolenchery, Ernakulam by Malankara Orthodox Syrian Church. Non-profit Christian minority medical college. Self-funded.",
     "YearEstablished": "2001",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC (UDF)"
   },
   {
     "SlNo": "297",
@@ -3089,7 +3361,9 @@
     "FundingSource": "Archeparchy trust endowments, tuition fees, 1200-bed super-specialty hospital clinical income.",
     "SummaryReport": "Established in 2002 (hospital est. 1959) at Tiruvalla by Syro-Malankara Catholic Church. Premier non-profit Christian minority medical college. Self-funded.",
     "YearEstablished": "2002",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC (UDF)"
   },
   {
     "SlNo": "299",
@@ -3110,7 +3384,9 @@
     "FundingSource": "University tuition fees, hospital earnings.",
     "SummaryReport": "Established at Pachama, Sehore under Sri Satya Sai University ecosystem. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "302",
@@ -3131,7 +3407,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in Bhopal under Ram Krishna trust ecosystem. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "304",
@@ -3157,7 +3435,9 @@
     "FundingSource": "LNCT University tuition fees, JK Hospital clinical revenues.",
     "SummaryReport": "Established in 2009 in Bhopal. Flagship constituent of LNCT University. Self-financed.",
     "YearEstablished": "2009",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "307",
@@ -3178,7 +3458,9 @@
     "FundingSource": "Group reserves, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2007 in Indore by Suresh Singh Bhadoria under Mayank Welfare Society. Self-financed.",
     "YearEstablished": "2007",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "309",
@@ -3204,7 +3486,9 @@
     "FundingSource": "SAIMS University fees, 1400-bed super-specialty hospital clinical earnings.",
     "SummaryReport": "Established in 2003 in Indore by Dr. Vinod Bhandari. Flagship medical university campus in Central India. Self-financed.",
     "YearEstablished": "2003",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "313",
@@ -3225,7 +3509,9 @@
     "FundingSource": "Trust endowments, student tuition fees, CR Gardi Hospital earnings.",
     "SummaryReport": "Established in 2001 at Surasa, Ujjain as MP's first private medical college under Ujjain Charitable Trust. Self-funded.",
     "YearEstablished": "2001",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "314",
@@ -3246,7 +3532,9 @@
     "FundingSource": "LNCT Group reserves, tuition fees, Sewakunj Hospital earnings.",
     "SummaryReport": "Established in 2021 in Indore by LNCT Educational Society. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "315",
@@ -3267,7 +3555,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in Jabalpur by Sukh Sagar Educational Trust. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "316",
@@ -3288,7 +3578,9 @@
     "FundingSource": "Minority trust funds, tuition fees, hospital income.",
     "SummaryReport": "Established in 2020 in IT Park, Bhopal as a Jain minority medical college. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "324",
@@ -3309,7 +3601,9 @@
     "FundingSource": "Group capital, student tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2016 at Bangar, Dewas by Suresh Singh Bhadoria. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "325",
@@ -3330,7 +3624,9 @@
     "FundingSource": "SRK University tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2014 at Jatkhedi, Bhopal as constituent college of SRK University under RKDF Society. Self-financed.",
     "YearEstablished": "2014",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "326",
@@ -3351,7 +3647,9 @@
     "FundingSource": "Chirayu Group reserves, tuition fees, super-specialty hospital operational income.",
     "SummaryReport": "Established in 2011 at Bairagarh, Bhopal by Dr. Ajay Goenka under Chirayu Charitable Trust. Self-financed.",
     "YearEstablished": "2011",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "328",
@@ -3377,7 +3675,9 @@
     "FundingSource": "People's University tuition fees, 1000-bed hospital clinical income.",
     "SummaryReport": "Established in 2005 at Bhanpur, Bhopal as constituent college of People's Private University. Self-financed.",
     "YearEstablished": "2005",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "331",
@@ -3403,7 +3703,9 @@
     "FundingSource": "MGM Deemed University fees, super-specialty hospital clinical earnings, trust endowments.",
     "SummaryReport": "Established in 1989 in Kamothe, Navi Mumbai by former Education Minister Kamalkishor Kadam under MGM Trust. Constituent of MGM Deemed University. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "50"
+    "AnnualIntake": "50",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "Mahayuti (BJP - Shiv Sena - NCP)"
   },
   {
     "SlNo": "332",
@@ -3424,7 +3726,9 @@
     "FundingSource": "Tuition fees, hospital operational income.",
     "SummaryReport": "Medical college at Sambhajinagar (Aurangabad) operated by Shri Ramchandra Trust. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "50"
+    "AnnualIntake": "50",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "Mahayuti (BJP - Shiv Sena - NCP)"
   },
   {
     "SlNo": "342",
@@ -3445,7 +3749,9 @@
     "FundingSource": "MGM Trust reserves, tuition fees, hospital clinical income.",
     "SummaryReport": "Established at Vashi, Navi Mumbai under MGM Trust by former Minister Kamalkishor Kadam. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "Mahayuti (BJP - Shiv Sena - NCP)"
   },
   {
     "SlNo": "344",
@@ -3466,7 +3772,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Medical college in Parbhani managed under educational society ecosystem. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "Mahayuti (BJP - Shiv Sena - NCP)"
   },
   {
     "SlNo": "348",
@@ -3492,7 +3800,9 @@
     "FundingSource": "Jawahar Foundation funds, tuition fees, hospital operational income.",
     "SummaryReport": "Established in 1990 in Dhule by Jawahar Medical Foundation, founded by Annasaheb D.B. Patil and led by Congress MLA Kunal Patil. Self-financed.",
     "YearEstablished": "1990",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "Janata Dal / Samajwadi Janata Party",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "350",
@@ -3518,7 +3828,9 @@
     "FundingSource": "Deemed university tuition fees, 2000-bed super-specialty hospital clinical income, international student fees.",
     "SummaryReport": "Established in 1996 in Pimpri, Pune. Flagship constituent college of Dr. D. Y. Patil Vidyapeeth Deemed University. Self-financed.",
     "YearEstablished": "1995",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "Shiv Sena - BJP"
   },
   {
     "SlNo": "352",
@@ -3544,7 +3856,9 @@
     "FundingSource": "KIMS Deemed University fees, super-specialty hospital earnings, trust reserves.",
     "SummaryReport": "Established in 1984 in Karad, Satara by Jaywantrao Bhosale. Constituent of KIMS Deemed University led by BJP leader Dr. Suresh Bhosale. Self-financed.",
     "YearEstablished": "1984",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "355",
@@ -3570,7 +3884,9 @@
     "FundingSource": "Union Ministry of Health & Family Welfare grant-in-aid (50%), Govt of Maharashtra grant (25%), Kasturba Health Society (25%).",
     "SummaryReport": "India's first rural medical college, established in 1969 at Mahatma Gandhi's Sevagram Ashram by Dr. Sushila Nayar. Unique non-profit trust college receiving 75% combined central & state government funding.",
     "YearEstablished": "1969",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "356",
@@ -3596,7 +3912,9 @@
     "FundingSource": "Bharati Vidyapeeth Deemed University tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2005 in Sangli as a constituent college of Bharati Vidyapeeth Deemed University. Self-financed.",
     "YearEstablished": "2005",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC - NCP"
   },
   {
     "SlNo": "358",
@@ -3622,7 +3940,9 @@
     "FundingSource": "Deemed university tuition fees, D. Y. Patil Hospital clinical earnings.",
     "SummaryReport": "Established in 1989 in Kadamwadi, Kolhapur. Constituent of D. Y. Patil Education Society Deemed University led by Congress leader Satej Patil. Self-financed.",
     "YearEstablished": "1989",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "Janata Dal",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "359",
@@ -3643,7 +3963,9 @@
     "FundingSource": "MAEER trust reserves, tuition fees, Yashwantrao Chavan Hospital income.",
     "SummaryReport": "Established in 1990 in Latur by MAEER's MIT Group Pune founded by Dr. Vishwanath D. Karad. Self-financed.",
     "YearEstablished": "1990",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "Janata Dal / Samajwadi Janata Party",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "364",
@@ -3669,7 +3991,9 @@
     "FundingSource": "Terna Trust reserves, tuition fees, hospital operational income.",
     "SummaryReport": "Established in 1991 at Nerul, Navi Mumbai by former Home Minister Padmasinh Patil. Governed by Terna Trust. Self-financed.",
     "YearEstablished": "1991",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "365",
@@ -3690,7 +4014,9 @@
     "FundingSource": "MGM Deemed University fees, super-specialty hospital clinical income.",
     "SummaryReport": "Established in 1990 at Chhatrapati Sambhajinagar (Aurangabad) under MGM Trust. Constituent of MGM Deemed University. Self-financed.",
     "YearEstablished": "1989",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "Janata Dal",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "368",
@@ -3721,7 +4047,9 @@
     "FundingSource": "Pravara Medical Trust reserves, deemed university tuition fees, Pravara Hospital clinical revenues.",
     "SummaryReport": "Established in 1984 in Loni, Ahmednagar by Balasaheb Vikhe Patil. Flagship constituent of Pravara Deemed University led by Cabinet Minister Radhakrishna Vikhe Patil. Self-financed.",
     "YearEstablished": "1984",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "371",
@@ -3742,7 +4070,9 @@
     "FundingSource": "MAEER Trust funds, tuition fees, Bhausaheb Sardesai Rural Hospital revenues.",
     "SummaryReport": "Established in 1995 at Talegaon Dabhade, Pune by MAEER's MIT Group. Self-financed.",
     "YearEstablished": "1994",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "372",
@@ -3768,7 +4098,9 @@
     "FundingSource": "STES institutional revenues, tuition fees, general hospital earnings.",
     "SummaryReport": "Established in 2007 at Narhe, Pune by Prof. M. N. Navale under Sinhgad Technical Education Society. Self-financed.",
     "YearEstablished": "2007",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC - NCP"
   },
   {
     "SlNo": "373",
@@ -3794,7 +4126,9 @@
     "FundingSource": "Somaiya Vidyavihar trust endowments, student tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 1991 at Sion, Mumbai by Karamshi Jethabhai Somaiya under Somaiya Vidyavihar Trust. Self-funded philanthropic trust.",
     "YearEstablished": "1991",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "374",
@@ -3820,7 +4154,9 @@
     "FundingSource": "VSPM Academy reserves, tuition fees, Lata Mangeshkar Hospital revenues.",
     "SummaryReport": "Established in 1990 at Digdoh Hills, Nagpur by former Congress Minister Ranjit Deshmukh. Named after Union Minister N. K. P. Salve. Self-financed.",
     "YearEstablished": "1990",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "Janata Dal / Samajwadi Janata Party",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "375",
@@ -3841,7 +4177,9 @@
     "FundingSource": "DVVP Foundation funds, student tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2004 at Vilad Ghat, Ahmednagar by Vikhe Patil family foundation, headed by Cabinet Minister Radhakrishna Vikhe Patil. Self-financed.",
     "YearEstablished": "2003",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC - NCP"
   },
   {
     "SlNo": "376",
@@ -3862,7 +4200,9 @@
     "FundingSource": "Deemed university tuition fees, super-specialty hospital revenues.",
     "SummaryReport": "Established in 1989 at Nerul, Navi Mumbai. Flagship constituent college of Dr. D. Y. Patil University Navi Mumbai. Self-financed.",
     "YearEstablished": "1989",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "Janata Dal",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "380",
@@ -3888,7 +4228,9 @@
     "FundingSource": "Shri Shivaji Society institutional reserves, tuition fees, hospital operational income.",
     "SummaryReport": "Established in 1984 in Amravati by historic Shri Shivaji Education Society (est. 1932). Self-financed educational trust.",
     "YearEstablished": "1984",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "382",
@@ -3914,7 +4256,9 @@
     "FundingSource": "Godavari Foundation funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2008 in Jalgaon by former MP Dr. Ulhas Patil under Godavari Foundation. Self-financed.",
     "YearEstablished": "2008",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC - NCP"
   },
   {
     "SlNo": "383",
@@ -3940,7 +4284,9 @@
     "FundingSource": "DMIHER Deemed University fees, Acharya Vinoba Bhave Rural Hospital earnings.",
     "SummaryReport": "Established in 1990 at Sawangi (Meghe), Wardha. Flagship constituent of DMIHER Deemed University led by former MP Datta Meghe & BJP MLA Sameer Meghe. Self-financed.",
     "YearEstablished": "1990",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "Janata Dal / Samajwadi Janata Party",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "384",
@@ -3966,7 +4312,9 @@
     "FundingSource": "MVP Samaj trust reserves, student tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 1990 in Nashik by MVP Samaj (110-year-old historic educational society). Named after former MP Dr. Vasantrao Pawar. Self-financed.",
     "YearEstablished": "1990",
-    "AnnualIntake": "120"
+    "AnnualIntake": "120",
+    "CenterRulingPartyAtEstablishment": "Janata Dal / Samajwadi Janata Party",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "385",
@@ -3987,7 +4335,9 @@
     "FundingSource": "Pune Municipal Corporation civic funds & subventions, student tuition fees, Kamala Nehru Hospital infrastructure.",
     "SummaryReport": "Established in 2021 by Pune Municipal Corporation (PMC) under its civic medical trust, named after former PM Atal Bihari Vajpayee. Public-Trust model.",
     "YearEstablished": "2022",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "Mahayuti (BJP - Shiv Sena - NCP)"
   },
   {
     "SlNo": "387",
@@ -4008,7 +4358,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2021 at Diksal, Karjat by Dr. Nandkumar Y. Tasgaonkar under Saraswati Education Society. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "MVA (Shiv Sena - NCP - INC)"
   },
   {
     "SlNo": "391",
@@ -4034,7 +4386,9 @@
     "FundingSource": "DMIHER deemed university fees, Shalinitai Meghe Hospital revenues.",
     "SummaryReport": "Established in 2020 at Wanadongri, Nagpur under DMIHER Deemed University. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "MVA (Shiv Sena - NCP - INC)"
   },
   {
     "SlNo": "392",
@@ -4060,7 +4414,9 @@
     "FundingSource": "SSPM Trust funds, tuition fees, Lifetime Hospital clinical earnings.",
     "SummaryReport": "Established in 2020 at Padave, Sindhudurg by former Chief Minister & Union Minister Narayan Rane. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "151"
+    "AnnualIntake": "151",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "MVA (Shiv Sena - NCP - INC)"
   },
   {
     "SlNo": "393",
@@ -4086,7 +4442,9 @@
     "FundingSource": "Symbiosis Deemed University fees, Symbiosis University Hospital clinical earnings.",
     "SummaryReport": "Exclusive medical college for women established in 2020 at Lavale, Pune by Dr. S. B. Mujumdar under Symbiosis International University. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "MVA (Shiv Sena - NCP - INC)"
   },
   {
     "SlNo": "396",
@@ -4107,7 +4465,9 @@
     "FundingSource": "Private promoter equity, tuition fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2017 at Saswand, Dhundalwadi, Palghar district as a private corporate medical college. Self-financed.",
     "YearEstablished": "2017",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP - Shiv Sena"
   },
   {
     "SlNo": "398",
@@ -4128,7 +4488,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2016 at Urun-Islampur, Sangli by Nishant Educational Trust. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP - Shiv Sena"
   },
   {
     "SlNo": "401",
@@ -4154,7 +4516,9 @@
     "FundingSource": "SVJCT trust endowments, philanthropic donations, student tuition fees, hospital revenue.",
     "SummaryReport": "Established in 2015 at Kasarwadi, Dervan, Chiplun, Ratnagiri by Shri Vithalrao Joshi Charities Trust. Self-funded rural charitable trust.",
     "YearEstablished": "2015",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP - Shiv Sena"
   },
   {
     "SlNo": "402",
@@ -4175,7 +4539,9 @@
     "FundingSource": "SMBT Trust reserves, tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2014 at Dhamangaon, Igatpuri, Nashik by SMBT Sevabhavi Trust. Self-financed.",
     "YearEstablished": "2014",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC - NCP"
   },
   {
     "SlNo": "403",
@@ -4196,7 +4562,9 @@
     "FundingSource": "Jamia trust funds, student tuition fees, Noor Hospital clinical earnings.",
     "SummaryReport": "Established in 2013 at Warudi, Badnapur, Jalna as a Muslim minority medical college by Jamia Islamia Ishaatul Uloom Trust. Self-financed.",
     "YearEstablished": "2013",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC - NCP"
   },
   {
     "SlNo": "404",
@@ -4217,7 +4585,9 @@
     "FundingSource": "Tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2012 at Kumbhari, Solapur by M. M. Patel Public Charitable Trust. Self-financed.",
     "YearEstablished": "2012",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC - NCP"
   },
   {
     "SlNo": "405",
@@ -4238,7 +4608,9 @@
     "FundingSource": "Deemed university tuition fees, hospital revenues.",
     "SummaryReport": "Second medical college unit established under MGM Institute of Health Sciences Deemed University in Navi Mumbai. Self-financed.",
     "YearEstablished": "1989",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "Janata Dal",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "407",
@@ -4264,7 +4636,9 @@
     "FundingSource": "IBSS trust funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2023 at Ghatkheda, Amravati by Indira Bahuuddeshiya Shikshan Sanstha. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "Mahayuti (BJP - Shiv Sena - NCP)"
   },
   {
     "SlNo": "408",
@@ -4290,7 +4664,9 @@
     "FundingSource": "Deemed university tuition fees, Bharati Hospital super-specialty revenues.",
     "SummaryReport": "Established in 1989 in Dhankawadi, Pune. Flagship constituent college of Bharati Vidyapeeth Deemed University. Self-financed.",
     "YearEstablished": "1989",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "Janata Dal",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "410",
@@ -4311,7 +4687,9 @@
     "FundingSource": "Shija Hospitals Ltd corporate revenues, student tuition fees, clinical earnings.",
     "SummaryReport": "Established in 2021 at Langol, Imphal as Manipur's first private medical college by Dr. Kh. Palin. Self-financed corporate healthcare institution.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "413",
@@ -4337,7 +4715,9 @@
     "FundingSource": "ERDF Trust funds, USTM university tuition fees, super-specialty hospital earnings.",
     "SummaryReport": "Established at Techno City, Khanapara under USTM/ERDF Trust, named after legendary North East leader P. A. Sangma. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "NPP (MDA)"
   },
   {
     "SlNo": "416",
@@ -4358,7 +4738,9 @@
     "FundingSource": "Government of Nagaland budgetary support, Ministry of DoNER, PMSSY central scheme funds.",
     "SummaryReport": "Inaugurated in 2023 at Phriebagei, Kohima as Nagaland's FIRST medical college, operated by Nagaland Govt Autonomous Society.",
     "YearEstablished": "2023",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "NDPP"
   },
   {
     "SlNo": "418",
@@ -4379,7 +4761,9 @@
     "FundingSource": "SOA Deemed University tuition fees, SUM Hospital clinical earnings.",
     "SummaryReport": "Second medical college campus under SOA Deemed University in Bhubaneswar. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "429",
@@ -4400,7 +4784,9 @@
     "FundingSource": "Hi-Tech Group reserves, tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2012 in Rourkela by Vigyan Bharati Educational Trust. Self-financed.",
     "YearEstablished": "2012",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJD"
   },
   {
     "SlNo": "430",
@@ -4421,7 +4807,9 @@
     "FundingSource": "SOA University fees, 1600-bed super-specialty SUM Hospital earnings.",
     "SummaryReport": "Established in 2007 in Kalinga Nagar, Bhubaneswar. Flagship constituent of SOA Deemed University. Self-financed.",
     "YearEstablished": "2007",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJD"
   },
   {
     "SlNo": "433",
@@ -4442,7 +4830,9 @@
     "FundingSource": "KIIT Deemed University tuition fees, KIMS 2000-bed super-specialty hospital clinical income.",
     "SummaryReport": "Established in 2007 in Bhubaneswar by former BJD MP Dr. Achyuta Samanta. Flagship medical college of KIIT Deemed University. Self-financed.",
     "YearEstablished": "2007",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJD"
   },
   {
     "SlNo": "434",
@@ -4463,7 +4853,9 @@
     "FundingSource": "Hi-Tech Group funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2005 at Pandara, Bhubaneswar by Dr. Tirupati Panigrahi. Odisha's pioneer private medical college. Self-financed.",
     "YearEstablished": "2005",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJD"
   },
   {
     "SlNo": "435",
@@ -4484,7 +4876,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2023 at Tangi, Cuttack by DRIEMS Society. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJD"
   },
   {
     "SlNo": "436",
@@ -4505,7 +4899,9 @@
     "FundingSource": "SMV Trust funds, student tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2006 at Kalitheerthalkuppam, Puducherry by Sri Manakula Vinayagar Educational Trust. Self-financed.",
     "YearEstablished": "2006",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "437",
@@ -4526,7 +4922,9 @@
     "FundingSource": "Christian missionary society funds, tuition fees, hospital service charges.",
     "SummaryReport": "Established in 2002 at Kalapet, Puducherry by Madras Christian College Association. Self-funded Christian minority trust.",
     "YearEstablished": "2000",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "438",
@@ -4547,7 +4945,9 @@
     "FundingSource": "VMRF deemed university fees, hospital earnings.",
     "SummaryReport": "Established in 1999 at Kirumampakkam, Puducherry. Constituent college of Vinayaka Missions Deemed University. Self-financed.",
     "YearEstablished": "1999",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "439",
@@ -4568,7 +4968,9 @@
     "FundingSource": "Deemed university tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 1996 in Karaikal, Puducherry UT by Vinayaka Missions. Constituent of VMRF Deemed University. Self-financed.",
     "YearEstablished": "1997",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "United Front",
+    "StateRulingPartyAtEstablishment": "DMK/TMC"
   },
   {
     "SlNo": "441",
@@ -4589,7 +4991,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2007 at Ariyur, Puducherry by Ramachandra Educational Trust. Self-financed.",
     "YearEstablished": "2007",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "442",
@@ -4610,7 +5014,9 @@
     "FundingSource": "Deemed university tuition fees, 1000+ bed hospital revenues.",
     "SummaryReport": "Established in 2001 at Pillaiyarkuppam, Puducherry. Flagship medical college of Sri Balaji Vidyapeeth Deemed University. Self-financed.",
     "YearEstablished": "2002",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "443",
@@ -4631,7 +5037,9 @@
     "FundingSource": "BIHER tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2006 at Osudu, Agaram, Puducherry by DMK MP Dr. S. Jagathrakshakan. Constituent of BIHER Deemed University. Self-financed.",
     "YearEstablished": "2006",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "445",
@@ -4652,7 +5060,9 @@
     "FundingSource": "RIMT University tuition fees, hospital clinical income.",
     "SummaryReport": "Established in Mandi Gobindgarh, Fatehgarh Sahib as constituent medical college of RIMT University. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "50"
+    "AnnualIntake": "50",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AAP"
   },
   {
     "SlNo": "447",
@@ -4678,7 +5088,9 @@
     "FundingSource": "Church society trust reserves, subsidized student tuition fees, 750-bed super-specialty hospital clinical income.",
     "SummaryReport": "Established in 1894 as North India's pioneer Christian minority medical institution. Governed by an inter-denominational council. Self-funded.",
     "YearEstablished": "1953",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "448",
@@ -4704,7 +5116,9 @@
     "FundingSource": "Hero Group CSR & industrial capital, trust endowments, student tuition fees, 1000-bed Hero DMC Heart Institute earnings.",
     "SummaryReport": "Established in 1934 in Ludhiana. Managed by Hero Group family (Sunil Kant Munjal) under Arya Samaj trust. Premier non-profit medical college. Self-funded.",
     "YearEstablished": "1963",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "449",
@@ -4725,7 +5139,9 @@
     "FundingSource": "SGPC shrine trust endowments, university tuition fees, SGRD Hospital clinical revenues.",
     "SummaryReport": "Established in 1997 in Vallah, Amritsar by SGPC. Flagship Sikh religious minority medical university. Self-funded.",
     "YearEstablished": "1997",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "United Front",
+    "StateRulingPartyAtEstablishment": "SAD - BJP"
   },
   {
     "SlNo": "450",
@@ -4746,7 +5162,9 @@
     "FundingSource": "Trust funds, student tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2007 at Ramnagar, Banur, Patiala by Gian Sagar Trust. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "454",
@@ -4767,7 +5185,9 @@
     "FundingSource": "Adesh University tuition fees, 750-bed super-specialty hospital clinical earnings.",
     "SummaryReport": "Established in 2006 in Bathinda. Flagship constituent of Adesh Private University led by Dr. H. S. Gill. Self-financed.",
     "YearEstablished": "2006",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "456",
@@ -4788,7 +5208,9 @@
     "FundingSource": "Promoter capital, tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2011 in Pathankot by BJP leader Swaran Salaria under Swarn Salaria Educational Trust. Self-financed.",
     "YearEstablished": "2011",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "SAD - BJP"
   },
   {
     "SlNo": "457",
@@ -4809,7 +5231,9 @@
     "FundingSource": "PIMS Society trust funds, Punjab Govt PPP support, student tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 1999 at Garha Road, Jalandhar under PPP model between Punjab Govt and PIMS Society. Self-financed PPP trust.",
     "YearEstablished": "2011",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "SAD - BJP"
   },
   {
     "SlNo": "459",
@@ -4830,7 +5254,9 @@
     "FundingSource": "Hospital corporate earnings, tuition fees.",
     "SummaryReport": "Medical college in Kota operated under Sudha Hospital trust ecosystem. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "460",
@@ -4851,7 +5277,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Medical college at Kudi Haud, Jodhpur operated by Vyas Group. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "464",
@@ -4872,7 +5300,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in Mogra, Jodhpur by JIET Trust. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "50"
+    "AnnualIntake": "50",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "473",
@@ -4898,7 +5328,9 @@
     "FundingSource": "MGUMST Deemed University fees, 1400-bed super-specialty hospital clinical income.",
     "SummaryReport": "Established in 2000 in Sitapura, Jaipur by Dr. M. L. Swarankar under India Education Trust. Premier self-financed medical university.",
     "YearEstablished": "2001",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "474",
@@ -4919,7 +5351,9 @@
     "FundingSource": "NIMS University tuition fees, super-specialty hospital clinical income.",
     "SummaryReport": "Established in 2004 at Shobha Nagar, Jaipur as constituent medical college of NIMS University. Self-financed.",
     "YearEstablished": "2004",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "479",
@@ -4945,7 +5379,9 @@
     "FundingSource": "Tantia University tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2021 in Sri Ganganagar as constituent medical college of Tantia University. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "488",
@@ -4966,7 +5402,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2015 at Kaliwas, Rajsamand by Ananta Charitable Educational Society. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "489",
@@ -4987,7 +5425,9 @@
     "FundingSource": "JNU University tuition fees, 800-bed hospital clinical income.",
     "SummaryReport": "Established in 2015 at Jagatpura, Jaipur as constituent college of Jaipur National Private University. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "490",
@@ -5008,7 +5448,9 @@
     "FundingSource": "University fees, hospital clinical income.",
     "SummaryReport": "Established in 2014 at Umarda, Udaipur as constituent college of Sai Tirupati University. Self-financed.",
     "YearEstablished": "2015",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "491",
@@ -5029,7 +5471,9 @@
     "FundingSource": "Geetanjali University fees, 1200-bed super-specialty hospital clinical revenues.",
     "SummaryReport": "Established in 2008 in Udaipur by J. P. Agarwal. Flagship constituent of Geetanjali Medical University. Self-financed.",
     "YearEstablished": "2008",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "492",
@@ -5050,7 +5494,9 @@
     "FundingSource": "GBH American Hospital corporate earnings, tuition fees.",
     "SummaryReport": "Established in 2016 at Bedwas, Udaipur by Devraj Education Trust in partnership with GBH American Hospital. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "498",
@@ -5071,7 +5517,9 @@
     "FundingSource": "University fees, 900-bed hospital clinical income.",
     "SummaryReport": "Established in 2014 at Bhilo Ka Bedla, Udaipur as constituent college of Pacific Medical University. Self-financed.",
     "YearEstablished": "2014",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "501",
@@ -5097,7 +5545,9 @@
     "FundingSource": "MEMG private capital investment, Govt of Sikkim state partnership, student tuition fees, Central Referral Hospital revenues.",
     "SummaryReport": "Established in 1997 at Tadong, Gangtok as India's pioneer Public-Private Partnership (PPP) medical university between Govt of Sikkim and Manipal Group. Self-funded.",
     "YearEstablished": "2000",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "SDF"
   },
   {
     "SlNo": "503",
@@ -5118,7 +5568,9 @@
     "FundingSource": "BIHER Deemed University tuition fees, hospital clinical income, promoter group capital.",
     "SummaryReport": "Constituent medical college of BIHER Deemed University, established by DMK MP Dr. S. Jagathrakshakan. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "504",
@@ -5139,7 +5591,9 @@
     "FundingSource": "Church diocese trust funds, student tuition fees, charitable hospital receipts.",
     "SummaryReport": "Christian minority medical college managed by Church of South India (CSI) Kanyakumari Diocese. Self-funded.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "505",
@@ -5160,7 +5614,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established at Pitchandampalayam, Erode by Sri Nandha Educational Trust. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "506",
@@ -5181,7 +5637,9 @@
     "FundingSource": "DS Group revenues, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in Perambalur by A. Srinivasan under Dhanalakshmi Srinivasan Educational Trust. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "508",
@@ -5207,7 +5665,9 @@
     "FundingSource": "BIHER tuition fees, hospital clinical earnings, group revenues.",
     "SummaryReport": "Established in 2003 at Chromepet, Chennai by DMK MP Dr. S. Jagathrakshakan under Sri Chockalingam Trust. Constituent of BIHER Deemed University. Self-financed.",
     "YearEstablished": "2003",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "509",
@@ -5228,7 +5688,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Medical college near Chennai operated by PSP Educational Trust. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "510",
@@ -5249,7 +5711,9 @@
     "FundingSource": "State government subventions, student fees, teaching hospital services.",
     "SummaryReport": "Established in 1980 by Chettinad royal family under Annamalai University; transitioned to state government management under Tamil Nadu Health Department.",
     "YearEstablished": "1985",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "512",
@@ -5270,7 +5734,9 @@
     "FundingSource": "Tuition fees, hospital operational revenues, trust capital.",
     "SummaryReport": "Established in 2009 at Maduranthakam by DMK Law Minister S. Regupathy under Karpaga Vinayaga Educational Trust. Self-financed.",
     "YearEstablished": "2009",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "513",
@@ -5291,7 +5757,9 @@
     "FundingSource": "Deemed university tuition fees, super-specialty hospital revenues.",
     "SummaryReport": "Established in 2008 at Ammapettai, Chengalpattu as a constituent college of Sri Balaji Vidyapeeth Deemed University. Self-financed.",
     "YearEstablished": "2008",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "514",
@@ -5317,7 +5785,9 @@
     "FundingSource": "PSG Charities trust endowments, student tuition fees, 1400-bed super-specialty hospital income.",
     "SummaryReport": "Established in 1985 in Peelamedu, Coimbatore by PSG & Sons' Charities (est. 1926). Highly respected non-profit educational trust medical college. Self-funded.",
     "YearEstablished": "1985",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "516",
@@ -5343,7 +5813,9 @@
     "FundingSource": "Philanthropic medical association funds, subsidized student fees, clinical hospital revenues, international research grants.",
     "SummaryReport": "Founded in 1900 by Dr. Ida Scudder. Globally acclaimed non-profit Christian minority medical institution governed by an inter-denominational council of 50+ churches. Self-funded.",
     "YearEstablished": "1942",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "British India",
+    "StateRulingPartyAtEstablishment": "British India / Princely State"
   },
   {
     "SlNo": "523",
@@ -5364,7 +5836,9 @@
     "FundingSource": "Chettinad Group corporate revenues, deemed university tuition fees, super-specialty hospital earnings.",
     "SummaryReport": "Established in 2006 at Kelambakkam by Chettinad Group under Raja Sir M. A. Muthiah Chettiar Trust. Constituent of CARE Deemed University. Self-financed.",
     "YearEstablished": "2006",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "524",
@@ -5385,7 +5859,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2006 at Kulasekharam, Kanyakumari district by Velayudhan Memorial Trust. Self-financed.",
     "YearEstablished": "2006",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "526",
@@ -5411,7 +5887,9 @@
     "FundingSource": "Deemed university tuition fees, 1500-bed super-specialty hospital revenue, research grants.",
     "SummaryReport": "Established in 1985 at Porur, Chennai by N. P. V. Ramasamy Udayar. Premier deemed university medical college. Self-financed.",
     "YearEstablished": "1985",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "528",
@@ -5437,7 +5915,9 @@
     "FundingSource": "VMRF deemed university fees, hospital revenues.",
     "SummaryReport": "Established in 1995 in Salem by Dr. A. Shanmugasundaram. Constituent college of Vinayaka Missions Research Foundation Deemed University. Self-financed.",
     "YearEstablished": "1996",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "United Front",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "530",
@@ -5458,7 +5938,9 @@
     "FundingSource": "MAHER deemed university fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2003 at Enathur, Kanchipuram by Meenakshi Ammal Trust. Constituent of MAHER Deemed University. Self-financed.",
     "YearEstablished": "2003",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "531",
@@ -5479,7 +5961,9 @@
     "FundingSource": "Tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2010 at Rathinamangalam, Chennai by Southern Educational Trust. Self-financed.",
     "YearEstablished": "2010",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "537",
@@ -5500,7 +5984,9 @@
     "FundingSource": "SIMATS deemed university tuition fees, super-specialty hospital clinical income.",
     "SummaryReport": "Established in 2008 at Thandalam, Chennai by Dr. N. M. Veeraiyan. Constituent of SIMATS Deemed University. Self-financed.",
     "YearEstablished": "2008",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "540",
@@ -5521,7 +6007,9 @@
     "FundingSource": "Vivekanandha Group funds, tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2021 at Elayampalayam, Namakkal by Rabindhranath Tagore Educational Trust. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "542",
@@ -5542,7 +6030,9 @@
     "FundingSource": "Promoter trust funds, tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2021 in Tiruvannamalai by DMK Public Works Minister E. V. Velu under Arunai Educational Trust. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "547",
@@ -5563,7 +6053,9 @@
     "FundingSource": "University tuition fees, hospital revenues.",
     "SummaryReport": "Established at Samayapuram, Trichy under Dhanalakshmi Srinivasan University. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "548",
@@ -5584,7 +6076,9 @@
     "FundingSource": "Deemed university tuition fees, hospital earnings.",
     "SummaryReport": "Established at Anekal, Chennai under Dr. M.G.R. Educational and Research Institute Deemed University. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "549",
@@ -5605,7 +6099,9 @@
     "FundingSource": "Vels Group revenues, deemed university fees, hospital earnings.",
     "SummaryReport": "Established in 2021 at Periyapalayam, Tiruvallur by Dr. Ishari K. Ganesh under Vels Educational Trust. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "554",
@@ -5631,7 +6127,9 @@
     "FundingSource": "St. Peter's Group funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2021 in Hosur by St. Peter's Trust, connected to senior AIADMK leader M. Thambidurai. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "555",
@@ -5652,7 +6150,9 @@
     "FundingSource": "Indira Group funds, student tuition fees, hospital revenues.",
     "SummaryReport": "Established in 2020 at Pandur, Tiruvallur by sitting DMK MLA VG Raajendran. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "556",
@@ -5673,7 +6173,9 @@
     "FundingSource": "BIHER tuition fees, hospital operational revenues.",
     "SummaryReport": "Established in 2020 at Selaiyur, Chennai as part of BIHER Deemed University network. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "557",
@@ -5694,7 +6196,9 @@
     "FundingSource": "Panimalar Group reserves, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2020 at Varadharajapuram, Chennai by Dr. P. Chinnadurai under Jaisakthi Educational Trust. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "558",
@@ -5715,7 +6219,9 @@
     "FundingSource": "KMCH Ltd corporate revenues, student tuition fees, clinical hospital income.",
     "SummaryReport": "Established in 2019 in Coimbatore by Kovai Medical Center and Hospital Ltd (KMCH). Self-financed corporate healthcare institution.",
     "YearEstablished": "2019",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "564",
@@ -5736,7 +6242,9 @@
     "FundingSource": "Velammal Group funds, tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2013 at Anuppanadi, Madurai by M. V. Muthuramalingam under Velammal Educational Trust. Self-financed.",
     "YearEstablished": "2013",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "567",
@@ -5757,7 +6265,9 @@
     "FundingSource": "Karpagam Group funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2012 at Othakkalmandapam, Coimbatore by Karpagam Educational Trust. Self-financed.",
     "YearEstablished": "2012",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "568",
@@ -5778,7 +6288,9 @@
     "FundingSource": "Madha Group trust funds, student fees, hospital revenue.",
     "SummaryReport": "Established in 2011 at Kundrathur, Chennai as a Christian minority medical college operated by Soosaiya Peter Educational Trust. Self-financed.",
     "YearEstablished": "2011",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "569",
@@ -5799,7 +6311,9 @@
     "FundingSource": "Tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2011 in Salem by V. M. Ramalingam Educational Trust. Self-financed.",
     "YearEstablished": "2011",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "570",
@@ -5820,7 +6334,9 @@
     "FundingSource": "DS Group capital, tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2011 in Siruvachur, Perambalur by A. Srinivasan. Self-financed trust medical college.",
     "YearEstablished": "2011",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "573",
@@ -5841,7 +6357,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2010 at Chikkarayapuram, Mangadu near Chennai. Self-financed.",
     "YearEstablished": "2010",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "574",
@@ -5862,7 +6380,9 @@
     "FundingSource": "SRM Group institutional revenues, student fees, hospital clinical income.",
     "SummaryReport": "Established in 2008 at Irungalur, Trichy by SRM Group founder Dr. T. R. Paarivendhar. Self-financed.",
     "YearEstablished": "2009",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "575",
@@ -5883,7 +6403,9 @@
     "FundingSource": "Deemed university tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2008 at Velappanchavadi, Chennai under Dr. M.G.R. Educational and Research Institute Deemed University. Self-financed.",
     "YearEstablished": "2008",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "576",
@@ -5904,7 +6426,9 @@
     "FundingSource": "Group reserves, tuition fees, hospital revenue.",
     "SummaryReport": "Medical college at Red Hills, Chennai operated by Ramachandra Educational Trust. Self-financed.",
     "YearEstablished": "2022",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "577",
@@ -5930,7 +6454,9 @@
     "FundingSource": "Siddhar Peetham trust donations, student tuition fees, hospital service charges.",
     "SummaryReport": "Established in 2008 at Melmaruvathur by Adhiparasakthi Trust under spiritual leader Bangaru Adigalar. Self-funded philanthropic trust.",
     "YearEstablished": "2008",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "DMK"
   },
   {
     "SlNo": "578",
@@ -5956,7 +6482,9 @@
     "FundingSource": "SRM IST deemed university tuition fees, 1200+ bed super-specialty hospital earnings.",
     "SummaryReport": "Established in 2005 at Kattankulathur, Chengalpattu as flagship medical college of SRM Deemed University. Self-financed.",
     "YearEstablished": "2005",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "AIADMK"
   },
   {
     "SlNo": "587",
@@ -5977,7 +6505,9 @@
     "FundingSource": "Student tuition fees, hospital clinical income.",
     "SummaryReport": "Established under Nova Educational Society in Ranga Reddy district. Self-financed through student tuition fees.",
     "YearEstablished": "2024",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "594",
@@ -6003,7 +6533,9 @@
     "FundingSource": "Anurag Educational Trust endowment, tuition fees, hospital revenue.",
     "SummaryReport": "Medical college established in Medchal under Anurag Educational Trust/Gayatri Educational Society, connected to BRS MLA Dr. P. Rajeshwar Reddy. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "598",
@@ -6024,7 +6556,9 @@
     "FundingSource": "Tuition fees, super-specialty hospital revenue, promoter capital.",
     "SummaryReport": "Established in 2002 by Chalmeda Laxminarsimha Rao under Arihant Educational Society in Karimnagar. Financed via student fees and hospital operations.",
     "YearEstablished": "2003",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP (Andhra Pradesh)"
   },
   {
     "SlNo": "600",
@@ -6045,7 +6579,9 @@
     "FundingSource": "Student tuition fees, hospital fees.",
     "SummaryReport": "Medical college in Medchal district managed by Arundathi Educational Society. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "601",
@@ -6071,7 +6607,9 @@
     "FundingSource": "CMR Educational Group reserves, student tuition fees, hospital revenue.",
     "SummaryReport": "Established under CMR Educational Society, part of the CMR/Malla Reddy group headed by BRS MLA & former Minister Ch. Malla Reddy. Self-financing.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "602",
@@ -6092,7 +6630,9 @@
     "FundingSource": "Christian missionary trust funds, student fees, charitable hospital revenue.",
     "SummaryReport": "Christian minority medical college in Warangal managed by Colombo Educational Society under the Catholic Diocese of Warangal. Funded through church trust reserves and self-financing fee structure.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "603",
@@ -6113,7 +6653,9 @@
     "FundingSource": "Tuition fees, hospital operational revenues.",
     "SummaryReport": "Established in 1999 in Mahabubnagar by Dr. S. Venkata Ramana Reddy under SVS Educational Society. Funded via self-financing tuition fees and hospital operations.",
     "YearEstablished": "1999",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP (Andhra Pradesh)"
   },
   {
     "SlNo": "606",
@@ -6139,7 +6681,9 @@
     "FundingSource": "DET trust reserves, student tuition fees, Owaisi Hospital clinical revenues.",
     "SummaryReport": "Premier Muslim minority medical college established in 1984 by Sultan Salahuddin Owaisi, managed by Darussalam Educational Trust led by AIMIM President & MP Asaduddin Owaisi.",
     "YearEstablished": "1985",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "TDP (Andhra Pradesh)"
   },
   {
     "SlNo": "607",
@@ -6160,7 +6704,9 @@
     "FundingSource": "MNR Group institutional revenues, student fees, hospital revenue.",
     "SummaryReport": "Established in 2002 in Sangareddy by M.N. Raju under MNR Educational Trust. Self-funded private trust medical college.",
     "YearEstablished": "2002",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP (Andhra Pradesh)"
   },
   {
     "SlNo": "608",
@@ -6186,7 +6732,9 @@
     "FundingSource": "Kamineni Group healthcare capital, tuition fees, hospital clinical earnings.",
     "SummaryReport": "Founded in 1999 at Narketpally by Kamineni Group under Kamineni Education Society. Self-funded medical college and super-specialty hospital.",
     "YearEstablished": "1999",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP (Andhra Pradesh)"
   },
   {
     "SlNo": "610",
@@ -6207,7 +6755,9 @@
     "FundingSource": "J.B. Educational Society funds, student tuition fees, hospital income.",
     "SummaryReport": "Established in 2005 at Moinabad, Ranga Reddy district by J. Bhaskar Rao under J.B. Educational Society. Self-financed.",
     "YearEstablished": "2005",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC (Andhra Pradesh)"
   },
   {
     "SlNo": "611",
@@ -6228,7 +6778,9 @@
     "FundingSource": "Student tuition fees, hospital charges.",
     "SummaryReport": "Medical college at Patancheru operated by TRR Educational Society. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "615",
@@ -6249,7 +6801,9 @@
     "FundingSource": "Student fees, hospital clinical income.",
     "SummaryReport": "Established in Siddipet under Surabhi Educational Society. Self-financed medical institution.",
     "YearEstablished": "2019",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "616",
@@ -6275,7 +6829,9 @@
     "FundingSource": "Mamata Group reserves, tuition fees, Bachupally hospital operational income.",
     "SummaryReport": "Established at Bachupally, Hyderabad by Mamata Educational Society, headed by former BRS Minister Puvvada Ajay Kumar. Self-financed.",
     "YearEstablished": "2019",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "617",
@@ -6296,7 +6852,9 @@
     "FundingSource": "Promoter capital, student tuition fees, hospital revenue.",
     "SummaryReport": "Established in Chevella by BRS leader & former Cabinet Minister Dr. Patnam Mahender Reddy. Funded via self-financing medical college fee model.",
     "YearEstablished": "2019",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "619",
@@ -6317,7 +6875,9 @@
     "FundingSource": "Minority trust funds, student tuition fees, hospital receipts.",
     "SummaryReport": "Muslim minority medical college at Kanaka Mamidi, Ranga Reddy district, operated by Ayaan Educational Society. Self-financed.",
     "YearEstablished": "2018",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "620",
@@ -6343,7 +6903,9 @@
     "FundingSource": "TG Group industrial capital, tuition fees, hospital service revenues.",
     "SummaryReport": "Established at Chitkul, Patancheru by TG Group, associated with former BJP MP T.G. Venkatesh and AP Minister T.G. Bharat. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "621",
@@ -6364,7 +6926,9 @@
     "FundingSource": "Promoter capital, student tuition fees, hospital revenue.",
     "SummaryReport": "Founded in Vikarabad by former BRS MLA V. Mahipal Reddy under Mahavir Educational Society. Self-financed medical institution.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "622",
@@ -6385,7 +6949,9 @@
     "FundingSource": "Tuition fees, hospital clinical income.",
     "SummaryReport": "Established at Laxmakkapally, Siddipet by RVM Educational Society. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "625",
@@ -6411,7 +6977,9 @@
     "FundingSource": "Malla Reddy Educational Group revenue, tuition fees, hospital earnings.",
     "SummaryReport": "Women's medical college established at Suraram, Hyderabad by BRS leader Ch. Malla Reddy. Self-financed through group revenues.",
     "YearEstablished": "2013",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC (Andhra Pradesh)"
   },
   {
     "SlNo": "627",
@@ -6437,7 +7005,9 @@
     "FundingSource": "Kamineni Hospitals operational income, tuition fees.",
     "SummaryReport": "Located at L.B. Nagar, Hyderabad, operated by Kamineni Education Society. Funded by hospital revenues and tuition fees.",
     "YearEstablished": "2013",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC (Andhra Pradesh)"
   },
   {
     "SlNo": "628",
@@ -6463,7 +7033,9 @@
     "FundingSource": "Apollo Hospitals Enterprise Ltd backing, tuition fees, hospital operations.",
     "SummaryReport": "Established at Jubilee Hills, Hyderabad by Apollo Hospitals Educational Trust. Self-funded corporate healthcare medical institute.",
     "YearEstablished": "2012",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC (Andhra Pradesh)"
   },
   {
     "SlNo": "629",
@@ -6484,7 +7056,9 @@
     "FundingSource": "Malla Reddy Group revenues, tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2012 at Suraram, Hyderabad by BRS MLA Ch. Malla Reddy. Self-financed.",
     "YearEstablished": "2012",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC (Andhra Pradesh)"
   },
   {
     "SlNo": "630",
@@ -6505,7 +7079,9 @@
     "FundingSource": "DET trust funds, tuition fees, hospital clinical income.",
     "SummaryReport": "Muslim minority women's medical college at Aziznagar, Ranga Reddy, managed under Darussalam Educational Trust ecosystem. Self-funded.",
     "YearEstablished": "2010",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC (Andhra Pradesh)"
   },
   {
     "SlNo": "632",
@@ -6531,7 +7107,9 @@
     "FundingSource": "Shadan Group trust reserves, tuition fees, teaching hospital revenue.",
     "SummaryReport": "Established in 2005 as a premier Muslim minority medical college near Peerancheru, Hyderabad by late MLA Dr. Vizarat Rasool Khan. Self-financed.",
     "YearEstablished": "2005",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC (Andhra Pradesh)"
   },
   {
     "SlNo": "633",
@@ -6552,7 +7130,9 @@
     "FundingSource": "Prathima Group infrastructure & healthcare earnings, tuition fees, hospital revenue.",
     "SummaryReport": "Established in 2001 in Karimnagar by B. Srinivas Rao under Prathima Educational Society. Financed through Prathima Group corporate revenues and college fees.",
     "YearEstablished": "2001",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP (Andhra Pradesh)"
   },
   {
     "SlNo": "634",
@@ -6573,7 +7153,9 @@
     "FundingSource": "Prathima Group capital, tuition fees, hospital operational income.",
     "SummaryReport": "Medical college established in Warangal by Prathima Educational Society. Self-financed.",
     "YearEstablished": "2022",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BRS (TRS)"
   },
   {
     "SlNo": "642",
@@ -6594,7 +7176,9 @@
     "FundingSource": "Share Medical Care trust funds, tuition fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2002 at Ghanpur, Medchal by Share Medical Care foundation founded by NRI cardiothoracic surgeon Dr. P.S. Maharaju. Self-funded.",
     "YearEstablished": "2001",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP (Andhra Pradesh)"
   },
   {
     "SlNo": "643",
@@ -6620,7 +7204,9 @@
     "FundingSource": "Mamata Educational Society reserves, tuition fees, 1000+ bed hospital revenues.",
     "SummaryReport": "Established in 1998 in Khammam as one of Telangana's oldest private medical colleges, founded by Puvvada family (BRS/CPI leaders). Self-financed.",
     "YearEstablished": "1998",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "TDP (Andhra Pradesh)"
   },
   {
     "SlNo": "644",
@@ -6641,7 +7227,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established at Ranirkhamar, Madhuban, West Tripura by Santiniketan Society. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "646",
@@ -6662,7 +7250,9 @@
     "FundingSource": "Government of Tripura subventions, student fees, BRAM teaching hospital service charges.",
     "SummaryReport": "Established in 2006 at Hapania, Agartala by Society for Tripura Medical College (STMC) under Govt of Tripura Health Dept. Public-Trust society.",
     "YearEstablished": "2006",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "CPI(M)"
   },
   {
     "SlNo": "647",
@@ -6683,7 +7273,9 @@
     "FundingSource": "Tuition fees, hospital operational income.",
     "SummaryReport": "Medical college in Maharajganj operated by KMC Educational Trust. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "656",
@@ -6704,7 +7296,9 @@
     "FundingSource": "Gorakhnath Math trust endowments, Mahayogi Gorakhnath University tuition fees, Arogya Dham super-specialty hospital clinical income.",
     "SummaryReport": "Constituent medical college of Mahayogi Gorakhnath University, established under historic Maharana Pratap Shiksha Parishad (Gorakhnath Math) led by Chief Minister Yogi Adityanath. Self-funded religious/educational trust.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "657",
@@ -6725,7 +7319,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in Sambhal under Shri Siddhi Vinayak Trust. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "50"
+    "AnnualIntake": "50",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "658",
@@ -6746,7 +7342,9 @@
     "FundingSource": "Government of Uttar Pradesh budget & central health scheme allocations.",
     "SummaryReport": "State government autonomous medical college society in Auraiya.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "659",
@@ -6767,7 +7365,9 @@
     "FundingSource": "Government of Uttar Pradesh budgetary allocations & PMSSY central scheme funds.",
     "SummaryReport": "State-administered autonomous medical college society established under the UP Department of Medical Education.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "660",
@@ -6788,7 +7388,9 @@
     "FundingSource": "Government of Uttar Pradesh budget & central health scheme allocations.",
     "SummaryReport": "State autonomous government medical college society in Lakhimpur Kheri.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "664",
@@ -6814,7 +7416,9 @@
     "FundingSource": "Rama Group institutional fees, hospital operational income.",
     "SummaryReport": "Established in Kanpur under Rama Educational Society. Constituent of Rama University ecosystem. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "665",
@@ -6835,7 +7439,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in Mathura under SKS Educational Trust. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "667",
@@ -6856,7 +7462,9 @@
     "FundingSource": "Promoter capital, student tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2011 in Fatehgarh, Farrukhabad by SP politician Dr. Anar Singh Yadav. Self-financed.",
     "YearEstablished": "2011",
-    "AnnualIntake": "0"
+    "AnnualIntake": "0",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BSP"
   },
   {
     "SlNo": "671",
@@ -6877,7 +7485,9 @@
     "FundingSource": "TMU Deemed University fees, 1000-bed super-specialty hospital clinical income.",
     "SummaryReport": "Established in 2008 in Moradabad as flagship Jain minority medical college of TMU Private University. Self-financed.",
     "YearEstablished": "2008",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BSP"
   },
   {
     "SlNo": "673",
@@ -6898,7 +7508,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2006 in Muzaffarnagar by Triveni Educational Social Welfare Society. Self-financed.",
     "YearEstablished": "2006",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "674",
@@ -6924,7 +7536,9 @@
     "FundingSource": "Deemed university tuition fees, 800-bed hospital clinical income.",
     "SummaryReport": "Established in 1996 in Ghaziabad by Dr. P. Mahalingam under Maharaji Educational Trust. Self-financed deemed university.",
     "YearEstablished": "1996",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "United Front",
+    "StateRulingPartyAtEstablishment": "President's Rule"
   },
   {
     "SlNo": "679",
@@ -6950,7 +7564,9 @@
     "FundingSource": "Era University fees, Era Hospital clinical revenues.",
     "SummaryReport": "Established in 2001 in Sarfarazganj, Lucknow as a premier Muslim minority medical college under Era Educational Trust. Self-financed.",
     "YearEstablished": "1997",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "United Front",
+    "StateRulingPartyAtEstablishment": "BSP / BJP"
   },
   {
     "SlNo": "682",
@@ -6971,7 +7587,9 @@
     "FundingSource": "University tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2006 in Bareilly by Dr. Keshav Kumar Agrawal under Rohilkhand Educational Charitable Trust. Self-financed.",
     "YearEstablished": "2006",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "683",
@@ -6997,7 +7615,9 @@
     "FundingSource": "Subharti University fees, Chhatrapati Shivaji Subharti Hospital earnings.",
     "SummaryReport": "Established in 1999 in Meerut by Dr. Atul Krishna under Subharti Trust. Self-financed.",
     "YearEstablished": "1996",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "United Front",
+    "StateRulingPartyAtEstablishment": "President's Rule"
   },
   {
     "SlNo": "685",
@@ -7018,7 +7638,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2009 at Safedabad, Barabanki by Hind Charitable Trust. Self-financed.",
     "YearEstablished": "2009",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BSP"
   },
   {
     "SlNo": "696",
@@ -7039,7 +7661,9 @@
     "FundingSource": "Group reserves, tuition fees, hospital income.",
     "SummaryReport": "Established in Kanpur by Naraina Vidya Peeth Educational Trust. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "697",
@@ -7065,7 +7689,9 @@
     "FundingSource": "Noida International University tuition fees, hospital clinical income.",
     "SummaryReport": "Constituent medical college of Noida International University at Greater Noida, chaired by former UP DGP Dr. Vikram Singh. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "698",
@@ -7091,7 +7717,9 @@
     "FundingSource": "United Group institutional funds, student fees, hospital revenue.",
     "SummaryReport": "Established in 2020 at Rawatpur, Prayagraj by United Group of Institutions. Self-financed.",
     "YearEstablished": "2020",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "706",
@@ -7112,7 +7740,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2018 in Meerut by Kalka Educational Society. Self-financed.",
     "YearEstablished": "2018",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "707",
@@ -7133,7 +7763,9 @@
     "FundingSource": "Tuition fees, hospital revenue.",
     "SummaryReport": "Established in 2016 at Pilkhuwa, Hapur by Jaiprakash Educational Trust. Self-financed.",
     "YearEstablished": "2017",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "709",
@@ -7154,7 +7786,9 @@
     "FundingSource": "Tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2016 at Banthra, Shahjahanpur by Rohilkhand Educational Trust. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "710",
@@ -7175,7 +7809,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2016 in Unnao by Saraswati Educational Trust. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "711",
@@ -7196,7 +7832,9 @@
     "FundingSource": "Tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2016 in Mathura by Krishna Mohan Educational Society. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "712",
@@ -7217,7 +7855,9 @@
     "FundingSource": "University fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2016 at Gajraula, Amroha by Dr. Sudhir Giri. Constituent of Shri Venkateshwara University. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "713",
@@ -7238,7 +7878,9 @@
     "FundingSource": "Trust funds, student tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2016 at Banthra, Kanpur Road, Lucknow by B. P. Yadav under Prasad Educational Trust. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "714",
@@ -7259,7 +7901,9 @@
     "FundingSource": "Tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2016 at Amausi, Lucknow by Vedic and Educational Society. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "716",
@@ -7280,7 +7924,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2015 at Akbarpur, Mathura by Rajiv Memorial Academic City. Self-financed.",
     "YearEstablished": "2015",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "718",
@@ -7301,7 +7947,9 @@
     "FundingSource": "Heritage Hospitals Ltd corporate capital, tuition fees, super-specialty hospital income.",
     "SummaryReport": "Established in 2015 at Bhadwar, Varanasi by Heritage Hospitals Ltd. Self-financed.",
     "YearEstablished": "2015",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "719",
@@ -7322,7 +7970,9 @@
     "FundingSource": "Hind Trust funds, tuition fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2015 at Ataria, Sitapur by Hind Charitable Trust. Self-financed.",
     "YearEstablished": "2015",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "720",
@@ -7343,7 +7993,9 @@
     "FundingSource": "Minority trust funds, tuition fees, hospital revenue.",
     "SummaryReport": "Established in 2014 at Etmadpur, Agra as a Muslim minority medical college by F. H. Educational Trust. Self-financed.",
     "YearEstablished": "2014",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "721",
@@ -7364,7 +8016,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2014 in Bareilly by Rajshree Educational Trust. Self-financed.",
     "YearEstablished": "2014",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "723",
@@ -7385,7 +8039,9 @@
     "FundingSource": "Integral University tuition fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2013 at Dasauli, Lucknow as constituent college of Integral University. Self-funded Muslim minority university.",
     "YearEstablished": "2013",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "725",
@@ -7406,7 +8062,9 @@
     "FundingSource": "Tuition fees, hospital operational income.",
     "SummaryReport": "Established in 2012 in Barabanki by Bodhisattva Charitable Trust. Self-financed.",
     "YearEstablished": "2012",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "727",
@@ -7427,7 +8085,9 @@
     "FundingSource": "Rama Group funds, tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2011 in Hapur by Rama Educational Society. Self-financed.",
     "YearEstablished": "2011",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BSP"
   },
   {
     "SlNo": "728",
@@ -7448,7 +8108,9 @@
     "FundingSource": "Minority trust reserves, tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2011 at IIM Road, Lucknow as a Muslim minority medical college operated by Career Educational Trust. Self-financed.",
     "YearEstablished": "2011",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BSP"
   },
   {
     "SlNo": "729",
@@ -7474,7 +8136,9 @@
     "FundingSource": "Sharda University tuition fees, 900-bed Sharda Hospital clinical income.",
     "SummaryReport": "Established in 2009 at Greater Noida as constituent medical college of Sharda University. Self-financed.",
     "YearEstablished": "2009",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BSP"
   },
   {
     "SlNo": "730",
@@ -7495,7 +8159,9 @@
     "FundingSource": "Rama Group reserves, tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2008 in Mandhana, Kanpur by Rama Educational Society. Self-financed.",
     "YearEstablished": "2008",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BSP"
   },
   {
     "SlNo": "731",
@@ -7516,7 +8182,9 @@
     "FundingSource": "Tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2008 at Anwarpur, Hapur by Saraswati Educational Trust. Self-financed.",
     "YearEstablished": "2008",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "BSP"
   },
   {
     "SlNo": "732",
@@ -7537,7 +8205,9 @@
     "FundingSource": "SRMS Trust endowments, student tuition fees, 950-bed super-specialty hospital earnings.",
     "SummaryReport": "Established in 2002 in Bareilly by Dev Murti under SRMS Trust. Premier self-financed medical college and super-specialty hospital.",
     "YearEstablished": "2005",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "SP"
   },
   {
     "SlNo": "733",
@@ -7558,7 +8228,9 @@
     "FundingSource": "Graphic Era University tuition fees, super-specialty hospital clinical income.",
     "SummaryReport": "Established in Dehradun under Graphic Era Educational Society led by Dr. Kamal Ghanshala. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "735",
@@ -7584,7 +8256,9 @@
     "FundingSource": "SRHU University tuition fees, 1200-bed Himalayan Hospital clinical earnings.",
     "SummaryReport": "Established in 1995 at Jolly Grant, Dehradun by Swami Rama. Flagship medical university in Uttarakhand. Self-funded.",
     "YearEstablished": "1995",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC",
+    "StateRulingPartyAtEstablishment": "SP / President's Rule (Uttar Pradesh)"
   },
   {
     "SlNo": "736",
@@ -7605,7 +8279,9 @@
     "FundingSource": "Darbar Sahib trust endowments, university tuition fees, Shri Mahant Indiresh Hospital earnings.",
     "SummaryReport": "Established in 2002 at Patel Nagar, Dehradun under SGRR Education Mission led by Mahant Devendra Dass. Self-funded spiritual trust.",
     "YearEstablished": "2006",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "INC"
   },
   {
     "SlNo": "739",
@@ -7626,7 +8302,9 @@
     "FundingSource": "University fees, Dr. K. K. B. Hospital clinical revenues.",
     "SummaryReport": "Established in 2022 at Jhajra, Dehradun under Ras Bihari Bose Subharti University. Self-financed.",
     "YearEstablished": "2022",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "BJP"
   },
   {
     "SlNo": "743",
@@ -7647,7 +8325,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in Krishnanagar, Nadia under PPP framework. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "100"
+    "AnnualIntake": "100",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AITC (Trinamool Congress)"
   },
   {
     "SlNo": "744",
@@ -7668,7 +8348,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in Talit, Burdwan by East West Education Trust. Self-financed.",
     "YearEstablished": "2024",
-    "AnnualIntake": "50"
+    "AnnualIntake": "50",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AITC (Trinamool Congress)"
   },
   {
     "SlNo": "745",
@@ -7689,7 +8371,9 @@
     "FundingSource": "Industrial business capital, student tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2023 at Raghunathganj, Murshidabad by TMC MLA and former Minister Jakir Hossain. Self-financed Muslim minority trust.",
     "YearEstablished": "2024",
-    "AnnualIntake": "50"
+    "AnnualIntake": "50",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AITC (Trinamool Congress)"
   },
   {
     "SlNo": "747",
@@ -7710,7 +8394,9 @@
     "FundingSource": "Tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2023 at Chakdaha, Nadia by JMN Educational Trust. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AITC (Trinamool Congress)"
   },
   {
     "SlNo": "748",
@@ -7736,7 +8422,9 @@
     "FundingSource": "JIS Group corporate revenues, university tuition fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2023 at Santragachi, Howrah as constituent medical college of JIS Private University. Self-financed.",
     "YearEstablished": "2023",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AITC (Trinamool Congress)"
   },
   {
     "SlNo": "757",
@@ -7757,7 +8445,9 @@
     "FundingSource": "Tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2021 at Bolpur, Birbhum as India's first PPP medical college in West Bengal. Self-financed.",
     "YearEstablished": "2021",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AITC (Trinamool Congress)"
   },
   {
     "SlNo": "763",
@@ -7778,7 +8468,9 @@
     "FundingSource": "Sanaka Group reserves, tuition fees, hospital clinical income.",
     "SummaryReport": "Established in 2019 at Malandighi, Durgapur by Sanaka Educational Trust. Self-financed.",
     "YearEstablished": "2019",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AITC (Trinamool Congress)"
   },
   {
     "SlNo": "764",
@@ -7799,7 +8491,9 @@
     "FundingSource": "Tuition fees, hospital clinical earnings.",
     "SummaryReport": "Established in 2018 at Budge Budge, Kolkata by UIMS Trust. Self-financed.",
     "YearEstablished": "2018",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AITC (Trinamool Congress)"
   },
   {
     "SlNo": "765",
@@ -7820,7 +8514,9 @@
     "FundingSource": "Group reserves, tuition fees, hospital earnings.",
     "SummaryReport": "Established in 2016 at Rajbandh, Durgapur by Rahul Foundation. Self-financed.",
     "YearEstablished": "2016",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "BJP (NDA)",
+    "StateRulingPartyAtEstablishment": "AITC (Trinamool Congress)"
   },
   {
     "SlNo": "766",
@@ -7841,7 +8537,9 @@
     "FundingSource": "Mani Group corporate capital, tuition fees, 800-bed hospital clinical income.",
     "SummaryReport": "Established in 2013 in Durgapur by Mani Group. Self-financed corporate medical campus.",
     "YearEstablished": "2013",
-    "AnnualIntake": "250"
+    "AnnualIntake": "250",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "AITC (Trinamool Congress)"
   },
   {
     "SlNo": "771",
@@ -7862,7 +8560,9 @@
     "FundingSource": "ICARE Society reserves, tuition fees, Bidhan Chandra Roy Hospital earnings.",
     "SummaryReport": "Established in 2011 in Haldia by former MP Lakshman Seth under ICARE Society. Self-financed.",
     "YearEstablished": "2011",
-    "AnnualIntake": "150"
+    "AnnualIntake": "150",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (Left Front)"
   },
   {
     "SlNo": "779",
@@ -7883,6 +8583,8 @@
     "FundingSource": "KPC Group USA corporate capital, student tuition fees, 800-bed hospital clinical income.",
     "SummaryReport": "Established in 2006 at Jadavpur, Kolkata by NRI surgeon Dr. Kali Pradip Chaudhuri as West Bengal's FIRST private medical college. Self-funded.",
     "YearEstablished": "2008",
-    "AnnualIntake": "200"
+    "AnnualIntake": "200",
+    "CenterRulingPartyAtEstablishment": "INC (UPA)",
+    "StateRulingPartyAtEstablishment": "CPI(M) (Left Front)"
   }
 ]
