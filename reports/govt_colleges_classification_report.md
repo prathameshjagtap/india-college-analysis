@@ -119,3 +119,42 @@ The complete granular data supporting this report is stored in the workspace:
 2. **[`data/nmc_mbbs_colleges.csv`](../data/nmc_mbbs_colleges.csv)** (780 records): The master NMC seat matrix (all colleges, govt and private) used as the base dataset — sourced from NMC's official "Revised UG Seat Matrix 2024-25."
 
 This report complements [`reports/private_colleges_ownership_report.md`](private_colleges_ownership_report.md), which covers ownership, political affiliation, and funding for the 351 non-government (Trust/Society/Private) medical colleges — together spanning all 780 NMC-recognized MBBS colleges in India.
+
+---
+
+## Political Climate at the Time of Establishment
+
+Using each college's `YearOfInception` from the NMC seat matrix, correlated against historical ruling-government timelines at the Central and State level (the same timeline used in the private colleges report), we can see which governments presided over the founding of government medical colleges. Unlike private colleges — which are founded at the discretion of a trust/society — government college openings reflect direct state/central policy decisions to expand public medical education capacity.
+
+### Center Ruling Government at Establishment
+
+| Center Ruling Party / Coalition | Number of Govt Colleges Established | Percentage |
+| :--- | :---: | :---: |
+| BJP (NDA) | 253 | 59.0% |
+| INC | 92 | 21.4% |
+| INC (UPA) | 63 | 14.7% |
+| Unknown / Pre-1942 | 12 | 2.8% |
+| British India | 7 | 1.6% |
+| United Front | 1 | 0.2% |
+| Janata Dal | 1 | 0.2% |
+
+The **BJP (NDA)** era (1998–2003, 2014–2024) accounts for the majority of government medical college openings, driven substantially by the post-2014 wave of new AIIMS campuses under PMSSY and a sharp acceleration in state government college approvals over the last decade. The 12 "Unknown" colleges are historic institutions (e.g., Madras Medical College, Grant Medical College Mumbai, Patna Medical College) whose inception years predate the 1942 start of the ruling-party timeline used here.
+
+### State Ruling Government at Establishment (Top 10 resolvable)
+
+| State Ruling Party | Number of Govt Colleges Established |
+| :--- | :---: |
+| BJP | 84 |
+| INC | 52 |
+| BRS (TRS) | 23 |
+| British India / Princely State | 19 |
+| DMK | 16 |
+| AITC (Trinamool Congress) | 14 |
+| Mahayuti (BJP - Shiv Sena - NCP) | 13 |
+| AIADMK | 10 |
+| BJD | 9 |
+| JDU (NDA/Mahagathbandhan) | 7 |
+
+*Note: 136 records (31.7%) fall in years/states not covered by the state-level timeline used here and are marked "Unknown" rather than guessed. This is a lower-resolution timeline than the center-level one and should be read as directional, not exhaustive.*
+
+The enriched per-college fields (`YearOfInception`, `AnnualIntake`, `CenterRulingPartyAtEstablishment`, `StateRulingPartyAtEstablishment`) are now included directly in [`data/sources_and_funding.json`](../data/sources_and_funding.json), generated via [`scripts/enrich_govt_dataset.py`](../scripts/enrich_govt_dataset.py).
